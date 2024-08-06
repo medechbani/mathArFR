@@ -1,0 +1,3915 @@
+ [
+    {
+      "fr": "Abscisse",
+      "ar": "أفصول "
+    },
+    {
+      "fr": "Absolu",
+      "ar": "مطلق "
+    },
+    {
+      "fr": "Absolument",
+      "ar": "مطلقا "
+    },
+    {
+      "fr": "Absorbant",
+      "ar": "ماص "
+    },
+    {
+      "fr": "Abstraction",
+      "ar": "تجرید "
+    },
+    {
+      "fr": "Abstrait",
+      "ar": "مجرد "
+    },
+    {
+      "fr": "Absurde",
+      "ar": "خلفي أو خلف "
+    },
+    {
+      "fr": "Accolade",
+      "ar": "لامة "
+    },
+    {
+      "fr": "Accroissement",
+      "ar": "تزاید "
+    },
+    {
+      "fr": "Accumulation",
+      "ar": "تراكم "
+    },
+    {
+      "fr": "Achevé",
+      "ar": "منجز "
+    },
+    {
+      "fr": "Additif",
+      "ar": "جمعي "
+    },
+    {
+      "fr": "Addition",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Adhérence",
+      "ar": "لصوق "
+    },
+    {
+      "fr": "Adhérent",
+      "ar": "ملاصق "
+    },
+    {
+      "fr": "Adjacent",
+      "ar": "محاد "
+    },
+    {
+      "fr": "Adjoint",
+      "ar": "ملحق "
+    },
+    {
+      "fr": "Admettre",
+      "ar": "قیل "
+    },
+    {
+      "fr": "Admis",
+      "ar": "مقبول "
+    },
+    {
+      "fr": "Affine",
+      "ar": "تآلفي "
+    },
+    {
+      "fr": "Affixe",
+      "ar": "لحق "
+    },
+    {
+      "fr": "Aigu",
+      "ar": "حاد "
+    },
+    {
+      "fr": "Aire",
+      "ar": "مساحة "
+    },
+    {
+      "fr": "Ajustement",
+      "ar": "تعدیل أو إتراص "
+    },
+    {
+      "fr": "Aléa",
+      "ar": "عشواءة "
+    },
+    {
+      "fr": "Aléatoire",
+      "ar": "عشوائي "
+    },
+    {
+      "fr": "Algèbre",
+      "ar": "جبر "
+    },
+    {
+      "fr": "Alignement",
+      "ar": "استقامیة "
+    },
+    {
+      "fr": "Algorithme",
+      "ar": "خوارزمیة "
+    },
+    {
+      "fr": "Allure",
+      "ar": "منحى "
+    },
+    {
+      "fr": "Alternance",
+      "ar": "تناوب "
+    },
+    {
+      "fr": "Alterné",
+      "ar": "متناوب "
+    },
+    {
+      "fr": "Ambigu",
+      "ar": "مبھم "
+    },
+    {
+      "fr": "Analogie",
+      "ar": "مماثلة "
+    },
+    {
+      "fr": "Analogue",
+      "ar": "مماثل "
+    },
+    {
+      "fr": "Analytique",
+      "ar": "تحلیلي "
+    },
+    {
+      "fr": "Angle",
+      "ar": "زاویة "
+    },
+    {
+      "fr": "Angulaire",
+      "ar": "زاوي "
+    },
+    {
+      "fr": "Anguleux",
+      "ar": "مزوي "
+    },
+    {
+      "fr": "Anneau",
+      "ar": "حلقة "
+    },
+    {
+      "fr": "Annulateur",
+      "ar": "معدم "
+    },
+    {
+      "fr": "Annuler",
+      "ar": "أعدم "
+    },
+    {
+      "fr": "Antécédent",
+      "ar": "سابق "
+    },
+    {
+      "fr": "Antérieur",
+      "ar": "قبل "
+    },
+    {
+      "fr": "Antisymétrie",
+      "ar": "تخالف "
+    },
+    {
+      "fr": "Antisymétrique",
+      "ar": "تخالفي "
+    },
+    {
+      "fr": "A posteriori",
+      "ar": "بعدي"
+    },
+    {
+      "fr": "Appartenance",
+      "ar": "إنتماء "
+    },
+    {
+      "fr": "Appartenir",
+      "ar": "إنتمى "
+    },
+    {
+      "fr": "Application",
+      "ar": "تطبیق "
+    },
+    {
+      "fr": "Approché",
+      "ar": "مقرب "
+    },
+    {
+      "fr": "Approximatif",
+      "ar": "تقریبي "
+    },
+    {
+      "fr": "Approximation",
+      "ar": "تقریب "
+    },
+    {
+      "fr": "A priori",
+      "ar": "قبلي"
+    },
+    {
+      "fr": "Arbitraire",
+      "ar": "إعتباطي "
+    },
+    {
+      "fr": "Arbitrairement",
+      "ar": "إعتباطا "
+    },
+    {
+      "fr": "Arc",
+      "ar": "قوس "
+    },
+    {
+      "fr": "Arête",
+      "ar": "حرف "
+    },
+    {
+      "fr": "Argument",
+      "ar": "عمدة أو حجة أو دلیل "
+    },
+    {
+      "fr": "Arithmétique",
+      "ar": "حساب أو حسابي "
+    },
+    {
+      "fr": "Arrangement",
+      "ar": "ترتیبة "
+    },
+    {
+      "fr": "Arrondir",
+      "ar": "جبر "
+    },
+    {
+      "fr": "Assertion",
+      "ar": "قضیة "
+    },
+    {
+      "fr": "Associative",
+      "ar": "تجمیعیة "
+    },
+    {
+      "fr": "Associé",
+      "ar": "مرتبط "
+    },
+    {
+      "fr": "Associer",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Asymptote",
+      "ar": "مقارب "
+    },
+    {
+      "fr": "Automorphisme",
+      "ar": "تشاكل ذاتي "
+    },
+    {
+      "fr": "Auxiliaire",
+      "ar": "مساعد "
+    },
+    {
+      "fr": "Axe",
+      "ar": "محور "
+    },
+    {
+      "fr": "Axiome",
+      "ar": "موضوعة "
+    },
+    {
+      "fr": "B   Axiomatique",
+      "ar": "نظمة موضوعات "
+    },
+    {
+      "fr": "Barycentre",
+      "ar": "مرجح "
+    },
+    {
+      "fr": "Barycentrique",
+      "ar": "مرجحي "
+    },
+    {
+      "fr": "Base",
+      "ar": "قاعدة أو أساس "
+    },
+    {
+      "fr": "Bijectif",
+      "ar": "تقابلي "
+    },
+    {
+      "fr": "Bijection",
+      "ar": "تقابل "
+    },
+    {
+      "fr": "Bilinéaire",
+      "ar": "خطاني "
+    },
+    {
+      "fr": "Binaire",
+      "ar": "إثناني أو ثنائي "
+    },
+    {
+      "fr": "Bimodal",
+      "ar": "منولاني "
+    },
+    {
+      "fr": "Binôme",
+      "ar": "حدانیة "
+    },
+    {
+      "fr": "Binomial",
+      "ar": "حداني "
+    },
+    {
+      "fr": "Bipoint",
+      "ar": "نقطتانیة "
+    },
+    {
+      "fr": "Bissectrice",
+      "ar": "منصف "
+    },
+    {
+      "fr": "Bord",
+      "ar": "حافة "
+    },
+    {
+      "fr": "Borné",
+      "ar": "محدود "
+    },
+    {
+      "fr": "Borne  supérieure",
+      "ar": "محد أصغر  "
+    },
+    {
+      "fr": "Borne inférieure",
+      "ar": "محد أكبر  "
+    },
+    {
+      "fr": "Boule",
+      "ar": "كرة "
+    },
+    {
+      "fr": "Branche",
+      "ar": "فرع "
+    },
+    {
+      "fr": "Brisé",
+      "ar": "منكسر "
+    },
+    {
+      "fr": "Cadran",
+      "ar": "مربع "
+    },
+    {
+      "fr": "Calcul",
+      "ar": "حساب "
+    },
+    {
+      "fr": "Calculer",
+      "ar": "حسب "
+    },
+    {
+      "fr": "Canonique",
+      "ar": "قانوني "
+    },
+    {
+      "fr": "Caractère",
+      "ar": "میزة "
+    },
+    {
+      "fr": "Caractéristique",
+      "ar": "ممیز "
+    },
+    {
+      "fr": "Cardinal",
+      "ar": "رئیسي "
+    },
+    {
+      "fr": "Carré",
+      "ar": "مربع "
+    },
+    {
+      "fr": "Carte",
+      "ar": "بطاقة أو ورقة لعب "
+    },
+    {
+      "fr": "Cas",
+      "ar": "حالة "
+    },
+    {
+      "fr": "Case",
+      "ar": "خانة "
+    },
+    {
+      "fr": "Centre",
+      "ar": "مركز "
+    },
+    {
+      "fr": "Centrer",
+      "ar": "مركز "
+    },
+    {
+      "fr": "Cercle",
+      "ar": "دائرة "
+    },
+    {
+      "fr": "Certain",
+      "ar": "أكید "
+    },
+    {
+      "fr": "Changement",
+      "ar": "تغییر "
+    },
+    {
+      "fr": "Chemin",
+      "ar": "سبیل "
+    },
+    {
+      "fr": "Chiffre",
+      "ar": "رقم "
+    },
+    {
+      "fr": "Choix",
+      "ar": "اختیار "
+    },
+    {
+      "fr": "Citer",
+      "ar": "ذكر "
+    },
+    {
+      "fr": "Circulaire",
+      "ar": "دائري "
+    },
+    {
+      "fr": "Classe",
+      "ar": "صنف "
+    },
+    {
+      "fr": "Classement",
+      "ar": "ترتیب "
+    },
+    {
+      "fr": "Classer",
+      "ar": "رتب "
+    },
+    {
+      "fr": "Clos",
+      "ar": "مقفل "
+    },
+    {
+      "fr": "Cocher",
+      "ar": "وضع علامة "
+    },
+    {
+      "fr": "Codage",
+      "ar": "إقنان "
+    },
+    {
+      "fr": "Code",
+      "ar": "قن "
+    },
+    {
+      "fr": "Coder",
+      "ar": "أقن "
+    },
+    {
+      "fr": "Coefficient",
+      "ar": "معامل "
+    },
+    {
+      "fr": "Coincider",
+      "ar": "طابق "
+    },
+    {
+      "fr": "Colinéaires",
+      "ar": "مستقیمیة "
+    },
+    {
+      "fr": "Collecter",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Combinaison",
+      "ar": "تألیفة "
+    },
+    {
+      "fr": "Combinatoire",
+      "ar": "تألیفي "
+    },
+    {
+      "fr": "Commun",
+      "ar": "مشترك "
+    },
+    {
+      "fr": "Commutatif",
+      "ar": "تبادلي "
+    },
+    {
+      "fr": "Commutativité",
+      "ar": "تبادلیة "
+    },
+    {
+      "fr": "Commuter",
+      "ar": "بادل "
+    },
+    {
+      "fr": "Compact",
+      "ar": "متراص "
+    },
+    {
+      "fr": "Comparable",
+      "ar": "قابل للمقارنة "
+    },
+    {
+      "fr": "Comparaison",
+      "ar": "مقارنة "
+    },
+    {
+      "fr": "Comparer",
+      "ar": "قارن "
+    },
+    {
+      "fr": "Complémentaire",
+      "ar": "متمم أو متتام "
+    },
+    {
+      "fr": "Complet",
+      "ar": "تام "
+    },
+    {
+      "fr": "Complexe",
+      "ar": "عقدي "
+    },
+    {
+      "fr": "Composante",
+      "ar": "مركبة "
+    },
+    {
+      "fr": "Composition",
+      "ar": "تركیب "
+    },
+    {
+      "fr": "Compter",
+      "ar": "عد "
+    },
+    {
+      "fr": "Concave",
+      "ar": "مقعر "
+    },
+    {
+      "fr": "Concavité",
+      "ar": "تقعر "
+    },
+    {
+      "fr": "Conclure",
+      "ar": "استنتج "
+    },
+    {
+      "fr": "Conclusion",
+      "ar": "استنتاج "
+    },
+    {
+      "fr": "Condition",
+      "ar": "شرط "
+    },
+    {
+      "fr": "Conditionnel",
+      "ar": "شرطي "
+    },
+    {
+      "fr": "Cône",
+      "ar": "مخروط "
+    },
+    {
+      "fr": "Confiance",
+      "ar": "ثقة "
+    },
+    {
+      "fr": "Confondu",
+      "ar": "منطبق "
+    },
+    {
+      "fr": "Congru",
+      "ar": "متوافق "
+    },
+    {
+      "fr": "Congruence",
+      "ar": "موافقة "
+    },
+    {
+      "fr": "Conjoint",
+      "ar": "مصاحب "
+    },
+    {
+      "fr": "Conjonction",
+      "ar": "عطف "
+    },
+    {
+      "fr": "Conjugué",
+      "ar": "مرافق "
+    },
+    {
+      "fr": "Connecteur",
+      "ar": "رابط "
+    },
+    {
+      "fr": "Connexe",
+      "ar": "مقرون "
+    },
+    {
+      "fr": "Connu",
+      "ar": "معلوم "
+    },
+    {
+      "fr": "Consécutif",
+      "ar": "متتابع "
+    },
+    {
+      "fr": "Conséquence",
+      "ar": "نتیجة "
+    },
+    {
+      "fr": "Considérer",
+      "ar": "اعتبر "
+    },
+    {
+      "fr": "Constant",
+      "ar": "ثابت "
+    },
+    {
+      "fr": "Construction",
+      "ar": "إنشاء "
+    },
+    {
+      "fr": "Construire",
+      "ar": "أشأ "
+    },
+    {
+      "fr": "Contenir",
+      "ar": "احتوى "
+    },
+    {
+      "fr": "Continu",
+      "ar": "متصل "
+    },
+    {
+      "fr": "Continuité",
+      "ar": "اتصال "
+    },
+    {
+      "fr": "Contradiction",
+      "ar": "تناقض "
+    },
+    {
+      "fr": "Contradictoire",
+      "ar": "متناقض "
+    },
+    {
+      "fr": "Contraire",
+      "ar": "مضاد أو متضاد "
+    },
+    {
+      "fr": "Contraposée",
+      "ar": "مضاد العكس "
+    },
+    {
+      "fr": "Contraposition",
+      "ar": "ضد العكس "
+    },
+    {
+      "fr": "Convergence",
+      "ar": "تقارب "
+    },
+    {
+      "fr": "Convergent",
+      "ar": "متقارب "
+    },
+    {
+      "fr": "Converger",
+      "ar": "تقارب "
+    },
+    {
+      "fr": "Conversion",
+      "ar": "تحویل "
+    },
+    {
+      "fr": "Conversion",
+      "ar": "تحویل "
+    },
+    {
+      "fr": "Convexe",
+      "ar": "محدب "
+    },
+    {
+      "fr": "Convexité",
+      "ar": "تحدب "
+    },
+    {
+      "fr": "Coordonnée",
+      "ar": "إحداثي "
+    },
+    {
+      "fr": "Coplanaire",
+      "ar": "مستوائي "
+    },
+    {
+      "fr": "Corollaire",
+      "ar": "لازمة "
+    },
+    {
+      "fr": "Corps",
+      "ar": "جسم "
+    },
+    {
+      "fr": "Corrélation",
+      "ar": "تعالق "
+    },
+    {
+      "fr": "Cosinus",
+      "ar": "جیب التمام "
+    },
+    {
+      "fr": "Cotangente",
+      "ar": "ظل التمام "
+    },
+    {
+      "fr": "Côté",
+      "ar": "ضلع "
+    },
+    {
+      "fr": "Couple",
+      "ar": "زوج "
+    },
+    {
+      "fr": "Courbe",
+      "ar": "منحى "
+    },
+    {
+      "fr": "Couronne",
+      "ar": "إكلیل "
+    },
+    {
+      "fr": "Covariance",
+      "ar": "تغایر "
+    },
+    {
+      "fr": "Critère",
+      "ar": "مصداق "
+    },
+    {
+      "fr": "Critique",
+      "ar": "حرج "
+    },
+    {
+      "fr": "Croissance",
+      "ar": "تزاید "
+    },
+    {
+      "fr": "Croissant",
+      "ar": "تزایدي "
+    },
+    {
+      "fr": "Cube",
+      "ar": "مكعب "
+    },
+    {
+      "fr": "Cubique",
+      "ar": "مكعب "
+    },
+    {
+      "fr": "Cumulatif",
+      "ar": "تراكمي "
+    },
+    {
+      "fr": "Cumulé",
+      "ar": "متراكم "
+    },
+    {
+      "fr": "Curviligne",
+      "ar": "منحن "
+    },
+    {
+      "fr": "Cyclique",
+      "ar": "دوري "
+    },
+    {
+      "fr": "Cylindre",
+      "ar": "أسطوانة "
+    },
+    {
+      "fr": "Cylindrique",
+      "ar": "أسطواني "
+    },
+    {
+      "fr": "Cumulatif",
+      "ar": "تراكمي "
+    },
+    {
+      "fr": "Cumulé",
+      "ar": "متراكم "
+    },
+    {
+      "fr": "Dé",
+      "ar": "نرد "
+    },
+    {
+      "fr": "Décodage",
+      "ar": "حلقنة "
+    },
+    {
+      "fr": "Décoder",
+      "ar": "حلقن "
+    },
+    {
+      "fr": "Décomposable",
+      "ar": "قابل للتفكیك "
+    },
+    {
+      "fr": "Décomposition",
+      "ar": "تفكیك "
+    },
+    {
+      "fr": "Décroissance",
+      "ar": "تناقص "
+    },
+    {
+      "fr": "Décroissant",
+      "ar": "تناقصي "
+    },
+    {
+      "fr": "Déduction",
+      "ar": "استنتاج "
+    },
+    {
+      "fr": "Défaut",
+      "ar": "تفریط "
+    },
+    {
+      "fr": "Défini",
+      "ar": "معرف "
+    },
+    {
+      "fr": "Définir",
+      "ar": "عرف "
+    },
+    {
+      "fr": "Définition",
+      "ar": "تعریف "
+    },
+    {
+      "fr": "Dégénéré",
+      "ar": "مشوه "
+    },
+    {
+      "fr": "Degré",
+      "ar": "درجة "
+    },
+    {
+      "fr": "Dense",
+      "ar": "كثیف "
+    },
+    {
+      "fr": "Densité",
+      "ar": "كثافة "
+    },
+    {
+      "fr": "Dépendance",
+      "ar": "ارتباط "
+    },
+    {
+      "fr": "Dépendant",
+      "ar": "مرتبط "
+    },
+    {
+      "fr": "Dépouillement",
+      "ar": "فرز "
+    },
+    {
+      "fr": "Dérivabilité",
+      "ar": "قابلیة الإشتقاق "
+    },
+    {
+      "fr": "Dérivable",
+      "ar": "قابل للإشتقاق "
+    },
+    {
+      "fr": "Dérivation",
+      "ar": "اشتقاق "
+    },
+    {
+      "fr": "Dérivée",
+      "ar": "مشتقة "
+    },
+    {
+      "fr": "Descriptif",
+      "ar": "وصفي "
+    },
+    {
+      "fr": "Dessin",
+      "ar": "رسم "
+    },
+    {
+      "fr": "Dessiner",
+      "ar": "رسم "
+    },
+    {
+      "fr": "Déterminant",
+      "ar": "محددة "
+    },
+    {
+      "fr": "Détermination",
+      "ar": "تحدید "
+    },
+    {
+      "fr": "Déterminer",
+      "ar": "حدد "
+    },
+    {
+      "fr": "Développement",
+      "ar": "نشر "
+    },
+    {
+      "fr": "Développer",
+      "ar": "نشر "
+    },
+    {
+      "fr": "Déviation",
+      "ar": "انحراف "
+    },
+    {
+      "fr": "Diagonal",
+      "ar": "قطري "
+    },
+    {
+      "fr": "Diagonale",
+      "ar": "قطر "
+    },
+    {
+      "fr": "Diagonalisable",
+      "ar": "قابل للإقطار "
+    },
+    {
+      "fr": "Diagonalisation",
+      "ar": "إقطار "
+    },
+    {
+      "fr": "Diagonaliser",
+      "ar": "أقطر "
+    },
+    {
+      "fr": "Diagramme",
+      "ar": "مخطط "
+    },
+    {
+      "fr": "Diamètre",
+      "ar": "قطر "
+    },
+    {
+      "fr": "Différence",
+      "ar": "فرق "
+    },
+    {
+      "fr": "Différentiation",
+      "ar": "مفاضلة "
+    },
+    {
+      "fr": "Différent",
+      "ar": "مخالف "
+    },
+    {
+      "fr": "Différentiabilité",
+      "ar": "قابلیة المفاضلة "
+    },
+    {
+      "fr": "Différentiel",
+      "ar": "تفاضلي "
+    },
+    {
+      "fr": "Différentielle",
+      "ar": "تفاضل "
+    },
+    {
+      "fr": "Différentier",
+      "ar": "فاضل "
+    },
+    {
+      "fr": "Dimension",
+      "ar": "بعد "
+    },
+    {
+      "fr": "Direct",
+      "ar": "مباشر "
+    },
+    {
+      "fr": "Directeur",
+      "ar": "موجه"
+    },
+    {
+      "fr": "Direction",
+      "ar": "اتجاه "
+    },
+    {
+      "fr": "Discontinu",
+      "ar": "متقطع "
+    },
+    {
+      "fr": "Discontinuité",
+      "ar": "انقطاع "
+    },
+    {
+      "fr": "Discret",
+      "ar": "متقطع "
+    },
+    {
+      "fr": "Discriminant",
+      "ar": "ممیز أو محدد "
+    },
+    {
+      "fr": "Discussion",
+      "ar": "مناقشة "
+    },
+    {
+      "fr": "Disjoint",
+      "ar": "منفصل "
+    },
+    {
+      "fr": "Disjonction",
+      "ar": "فصل "
+    },
+    {
+      "fr": "Dispersion",
+      "ar": "تشتت "
+    },
+    {
+      "fr": "Disposition",
+      "ar": "موضعة أو وضع "
+    },
+    {
+      "fr": "Disque",
+      "ar": "قرص "
+    },
+    {
+      "fr": "Distance",
+      "ar": "مسافة "
+    },
+    {
+      "fr": "Distinct",
+      "ar": "مختلف "
+    },
+    {
+      "fr": "Distingué",
+      "ar": "متمیز "
+    },
+    {
+      "fr": "Distribuer",
+      "ar": "وزع "
+    },
+    {
+      "fr": "Distributif",
+      "ar": "توزیعي "
+    },
+    {
+      "fr": "Distribution",
+      "ar": "توزیع "
+    },
+    {
+      "fr": "Distributivité",
+      "ar": "توزیعیة "
+    },
+    {
+      "fr": "Divergence",
+      "ar": "تباعد "
+    },
+    {
+      "fr": "Divergent",
+      "ar": "متباعد "
+    },
+    {
+      "fr": "Dividende",
+      "ar": "مقسوم "
+    },
+    {
+      "fr": "Diviser",
+      "ar": "قسم "
+    },
+    {
+      "fr": "Diviseur",
+      "ar": "قاسم أو مقسوم علیه "
+    },
+    {
+      "fr": "Divisibilité",
+      "ar": "قابلیة القسمة "
+    },
+    {
+      "fr": "Division",
+      "ar": "قسمة "
+    },
+    {
+      "fr": "Domaine",
+      "ar": "حیز أو مجال "
+    },
+    {
+      "fr": "Dominant",
+      "ar": "مھیمن "
+    },
+    {
+      "fr": "Donnée",
+      "ar": "معط "
+    },
+    {
+      "fr": "Double",
+      "ar": "ضعف "
+    },
+    {
+      "fr": "Droit",
+      "ar": "مستقیم "
+    },
+    {
+      "fr": "Droite",
+      "ar": "مستقیم "
+    },
+    {
+      "fr": "Dual",
+      "ar": "ثنوي "
+    },
+    {
+      "fr": "Dualité",
+      "ar": "ثنویة "
+    },
+    {
+      "fr": "Ecart",
+      "ar": "فرجة أو انحراف "
+    },
+    {
+      "fr": "Echantillon",
+      "ar": "عینة "
+    },
+    {
+      "fr": "Echantillonnage",
+      "ar": "تعیان "
+    },
+    {
+      "fr": "Echec",
+      "ar": "فشل "
+    },
+    {
+      "fr": "Echelle",
+      "ar": "سلم "
+    },
+    {
+      "fr": "Effectif",
+      "ar": "حصیص "
+    },
+    {
+      "fr": "Effectuer",
+      "ar": "أجرى "
+    },
+    {
+      "fr": "Efficace",
+      "ar": "ناجع "
+    },
+    {
+      "fr": "Egal",
+      "ar": "مساو "
+    },
+    {
+      "fr": "Egalité",
+      "ar": "تساوي أو متساویة "
+    },
+    {
+      "fr": "Elément",
+      "ar": "عنصر "
+    },
+    {
+      "fr": "Elémentaire",
+      "ar": "ابتدائي "
+    },
+    {
+      "fr": "Elever",
+      "ar": "رفع "
+    },
+    {
+      "fr": "Elimination",
+      "ar": "إقصاء "
+    },
+    {
+      "fr": "Eliminer",
+      "ar": "أقصى "
+    },
+    {
+      "fr": "Ellipse",
+      "ar": "إھلیلج "
+    },
+    {
+      "fr": "Ellipsoïde",
+      "ar": "إھلیلجي "
+    },
+    {
+      "fr": "Elliptique",
+      "ar": "إھلیلجي "
+    },
+    {
+      "fr": "Emboité",
+      "ar": "متداخل "
+    },
+    {
+      "fr": "Empirique",
+      "ar": "اعتباري "
+    },
+    {
+      "fr": "Encadrement",
+      "ar": "تأطیر "
+    },
+    {
+      "fr": "Encadrer",
+      "ar": "أطر "
+    },
+    {
+      "fr": "Endomorphisme",
+      "ar": "تشاكل باطني "
+    },
+    {
+      "fr": "Engendré",
+      "ar": "مولد "
+    },
+    {
+      "fr": "Enoncé",
+      "ar": "نص أو منطوقة "
+    },
+    {
+      "fr": "Ensemble",
+      "ar": "مجموعة "
+    },
+    {
+      "fr": "Entier",
+      "ar": "صحیح "
+    },
+    {
+      "fr": "Enveloppe",
+      "ar": "غلاف "
+    },
+    {
+      "fr": "Environ",
+      "ar": "زھاء "
+    },
+    {
+      "fr": "Epreuve",
+      "ar": "اختبار "
+    },
+    {
+      "fr": "Equation",
+      "ar": "معادلة "
+    },
+    {
+      "fr": "Equerre",
+      "ar": "كوس "
+    },
+    {
+      "fr": "Equidistant",
+      "ar": "متساوي المسافة "
+    },
+    {
+      "fr": "Equilatéral",
+      "ar": "متساوي الأضلاع "
+    },
+    {
+      "fr": "Equiprobabilité",
+      "ar": "تساوي الإحتمال "
+    },
+    {
+      "fr": "Equiprobable",
+      "ar": "متساوي الإحتمال "
+    },
+    {
+      "fr": "Equitable",
+      "ar": "سوي "
+    },
+    {
+      "fr": "Equivalence",
+      "ar": "تكافئ "
+    },
+    {
+      "fr": "Equivalent",
+      "ar": "مكافئ أو متكافئ "
+    },
+    {
+      "fr": "Erreur",
+      "ar": "غلط "
+    },
+    {
+      "fr": "Escalier",
+      "ar": "درج "
+    },
+    {
+      "fr": "Espace",
+      "ar": "فضاء "
+    },
+    {
+      "fr": "Espérance",
+      "ar": "أمل "
+    },
+    {
+      "fr": "Estimation",
+      "ar": "تقدبر "
+    },
+    {
+      "fr": "Etablir",
+      "ar": "أثبت "
+    },
+    {
+      "fr": "Etagé",
+      "ar": "طبقي "
+    },
+    {
+      "fr": "Etoilé",
+      "ar": "نجمي "
+    },
+    {
+      "fr": "Euclidien",
+      "ar": "إقلیدي "
+    },
+    {
+      "fr": "Evaluation",
+      "ar": "تقییم "
+    },
+    {
+      "fr": "Evénement",
+      "ar": "حدث "
+    },
+    {
+      "fr": "Eventualité",
+      "ar": "إمكانیة "
+    },
+    {
+      "fr": "Exact",
+      "ar": "مضبوط "
+    },
+    {
+      "fr": "Exactement",
+      "ar": "بالضبط "
+    },
+    {
+      "fr": "Excès",
+      "ar": "إفراط "
+    },
+    {
+      "fr": "Exclu",
+      "ar": "مبعد أو مستبعد "
+    },
+    {
+      "fr": "Exclure",
+      "ar": "أبعد أو إستبعد "
+    },
+    {
+      "fr": "Exclusion",
+      "ar": "إبعاد أو إستبعاد "
+    },
+    {
+      "fr": "Exemple",
+      "ar": "مثال "
+    },
+    {
+      "fr": "Exercice",
+      "ar": "تمرین "
+    },
+    {
+      "fr": "Exhaustif",
+      "ar": "مستوعب "
+    },
+    {
+      "fr": "Explicite",
+      "ar": "صریح "
+    },
+    {
+      "fr": "Exponentiel",
+      "ar": "أسي "
+    },
+    {
+      "fr": "Exposant",
+      "ar": "أس "
+    },
+    {
+      "fr": "Expression",
+      "ar": "تعبیر "
+    },
+    {
+      "fr": "Exprimé",
+      "ar": "معبر "
+    },
+    {
+      "fr": "Exprimer",
+      "ar": "عبر "
+    },
+    {
+      "fr": "Extention",
+      "ar": "توسیع "
+    },
+    {
+      "fr": "Extérieur",
+      "ar": "خارج "
+    },
+    {
+      "fr": "Externe",
+      "ar": "خارجي "
+    },
+    {
+      "fr": "Extraction",
+      "ar": "استخراج "
+    },
+    {
+      "fr": "Extraire",
+      "ar": "استخرج "
+    },
+    {
+      "fr": "Extrapolation",
+      "ar": "استیفاء "
+    },
+    {
+      "fr": "Extrême",
+      "ar": "طرف "
+    },
+    {
+      "fr": "Extrémité",
+      "ar": "طرف "
+    },
+    {
+      "fr": "Extrémum",
+      "ar": "مطراف "
+    },
+    {
+      "fr": "Face",
+      "ar": "وجه "
+    },
+    {
+      "fr": "Facteur",
+      "ar": "عامل "
+    },
+    {
+      "fr": "Factoriel",
+      "ar": "عاملي "
+    },
+    {
+      "fr": "Factorisation",
+      "ar": "تعمیل "
+    },
+    {
+      "fr": "Factoriser",
+      "ar": "عمل "
+    },
+    {
+      "fr": "Faible",
+      "ar": "ضعیف "
+    },
+    {
+      "fr": "Famille",
+      "ar": "أسرة "
+    },
+    {
+      "fr": "Faute",
+      "ar": "خطأ "
+    },
+    {
+      "fr": "Faux",
+      "ar": "خاطئ "
+    },
+    {
+      "fr": "Fermé",
+      "ar": "مغلق "
+    },
+    {
+      "fr": "Fermeture",
+      "ar": "إغلاق "
+    },
+    {
+      "fr": "Figure",
+      "ar": "شكل "
+    },
+    {
+      "fr": "Fini",
+      "ar": "منتهي "
+    },
+    {
+      "fr": "Fixe",
+      "ar": "ثابت "
+    },
+    {
+      "fr": "Fixé",
+      "ar": "مثبت "
+    },
+    {
+      "fr": "Flèche",
+      "ar": "سھم "
+    },
+    {
+      "fr": "Fonction",
+      "ar": "دالة "
+    },
+    {
+      "fr": "Fonctionnel",
+      "ar": "دالي "
+    },
+    {
+      "fr": "Fondamental",
+      "ar": "أساسي "
+    },
+    {
+      "fr": "Fondé",
+      "ar": "مأسس "
+    },
+    {
+      "fr": "Forme",
+      "ar": "شكل "
+    },
+    {
+      "fr": "Formelle",
+      "ar": "شكلي "
+    },
+    {
+      "fr": "Formulation",
+      "ar": "صیاغة "
+    },
+    {
+      "fr": "Formule",
+      "ar": "صیغة "
+    },
+    {
+      "fr": "Fort",
+      "ar": "قوي "
+    },
+    {
+      "fr": "Fraction",
+      "ar": "كسر "
+    },
+    {
+      "fr": "Fractionnaire",
+      "ar": "كسري "
+    },
+    {
+      "fr": "Fréquence",
+      "ar": "تردد "
+    },
+    {
+      "fr": "Frontière",
+      "ar": "تخم "
+    },
+    {
+      "fr": "Gain",
+      "ar": "كسب "
+    },
+    {
+      "fr": "Gauche",
+      "ar": "أیسر أو یسار "
+    },
+    {
+      "fr": "Général",
+      "ar": "عام "
+    },
+    {
+      "fr": "Générateur",
+      "ar": "مولد "
+    },
+    {
+      "fr": "Génération",
+      "ar": "تولید "
+    },
+    {
+      "fr": "Génératrice",
+      "ar": "مولدة "
+    },
+    {
+      "fr": "Géométrie",
+      "ar": "ھندسة "
+    },
+    {
+      "fr": "Géométrique",
+      "ar": "ھندسي "
+    },
+    {
+      "fr": "Global",
+      "ar": "إجمالي "
+    },
+    {
+      "fr": "Globalement",
+      "ar": "إجمالیا "
+    },
+    {
+      "fr": "Gradué",
+      "ar": "مدرج "
+    },
+    {
+      "fr": "Grand",
+      "ar": "كبیر "
+    },
+    {
+      "fr": "Grandeur",
+      "ar": "مقدار أو قدر "
+    },
+    {
+      "fr": "Graphe",
+      "ar": "مبیان "
+    },
+    {
+      "fr": "Graphique",
+      "ar": "مبیاني "
+    },
+    {
+      "fr": "Grille",
+      "ar": "شبكة "
+    },
+    {
+      "fr": "Groupe",
+      "ar": "زمرة "
+    },
+    {
+      "fr": "Hachurer",
+      "ar": "خدش "
+    },
+    {
+      "fr": "Harmonique",
+      "ar": "توافقي "
+    },
+    {
+      "fr": "Hauteur",
+      "ar": "ارتفاع "
+    },
+    {
+      "fr": "Histogramme",
+      "ar": "مدراج "
+    },
+    {
+      "fr": "Homéomorphisme",
+      "ar": "تشاكل متصل "
+    },
+    {
+      "fr": "Homogène",
+      "ar": "متجانس "
+    },
+    {
+      "fr": "Homogénéité",
+      "ar": "تجانس "
+    },
+    {
+      "fr": "Homomorphe",
+      "ar": "مشاكل أو متشاكل "
+    },
+    {
+      "fr": "Homomorphisme",
+      "ar": "تشاكل "
+    },
+    {
+      "fr": "Homothétie",
+      "ar": "تحاك "
+    },
+    {
+      "fr": "Horizontal",
+      "ar": "أفقي "
+    },
+    {
+      "fr": "Hyperbole",
+      "ar": "ھذلول "
+    },
+    {
+      "fr": "Hyperbolique",
+      "ar": "ھذلولي "
+    },
+    {
+      "fr": "Hyperplan",
+      "ar": "مستوى فوقي "
+    },
+    {
+      "fr": "Hypoténuse",
+      "ar": "وتر "
+    },
+    {
+      "fr": "Hypothèse",
+      "ar": "افتراض "
+    },
+    {
+      "fr": "Idéal",
+      "ar": "مثالیة "
+    },
+    {
+      "fr": "Idempotence",
+      "ar": "جمود "
+    },
+    {
+      "fr": "Idempotant",
+      "ar": "جامد "
+    },
+    {
+      "fr": "Identification",
+      "ar": "مطابقة "
+    },
+    {
+      "fr": "Identique",
+      "ar": "مطابق "
+    },
+    {
+      "fr": "Identité",
+      "ar": "متطابقة أو تطبیق أو مطابق "
+    },
+    {
+      "fr": "Illimité",
+      "ar": "لانھائي "
+    },
+    {
+      "fr": "Illustration",
+      "ar": "إیضاح "
+    },
+    {
+      "fr": "Image",
+      "ar": "صورة "
+    },
+    {
+      "fr": "Imaginaire",
+      "ar": "تخیلي "
+    },
+    {
+      "fr": "Impair",
+      "ar": "فردي "
+    },
+    {
+      "fr": "Implication",
+      "ar": "استلزام "
+    },
+    {
+      "fr": "Implicite",
+      "ar": "ضمني "
+    },
+    {
+      "fr": "Impliquer",
+      "ar": "استلزم "
+    },
+    {
+      "fr": "Impossible",
+      "ar": "مستحیل "
+    },
+    {
+      "fr": "Impropre",
+      "ar": "معتل "
+    },
+    {
+      "fr": "Incertitude",
+      "ar": "ارتیاب "
+    },
+    {
+      "fr": "Inclus",
+      "ar": "ضمن "
+    },
+    {
+      "fr": "Inclusion",
+      "ar": "تضمین "
+    },
+    {
+      "fr": "Incompatibilité",
+      "ar": "عدم انسجام "
+    },
+    {
+      "fr": "Incompatible",
+      "ar": "غیر منسجم "
+    },
+    {
+      "fr": "Inconnue",
+      "ar": "مجھول "
+    },
+    {
+      "fr": "Indéfini",
+      "ar": "غیر معرف "
+    },
+    {
+      "fr": "Indépendance",
+      "ar": "استقلال "
+    },
+    {
+      "fr": "Indépendant",
+      "ar": "مستقل "
+    },
+    {
+      "fr": "Indétermination",
+      "ar": "عدم التحدید "
+    },
+    {
+      "fr": "Indéterminé",
+      "ar": "غیر محدد "
+    },
+    {
+      "fr": "Indéterminée",
+      "ar": "مبھم "
+    },
+    {
+      "fr": "Indexé",
+      "ar": "مدلل "
+    },
+    {
+      "fr": "Indicateur",
+      "ar": "مخبر "
+    },
+    {
+      "fr": "Indicatrice",
+      "ar": "مخبرة "
+    },
+    {
+      "fr": "Indice",
+      "ar": "مدل "
+    },
+    {
+      "fr": "Indirect",
+      "ar": "غیر مباشر "
+    },
+    {
+      "fr": "Individu",
+      "ar": "فرد "
+    },
+    {
+      "fr": "Induit",
+      "ar": "مستخلص "
+    },
+    {
+      "fr": "Inégal",
+      "ar": "غیر متساو أو متفاوت "
+    },
+    {
+      "fr": "Inégalité",
+      "ar": "متفاوتة "
+    },
+    {
+      "fr": "Inéquation",
+      "ar": "متراجحة "
+    },
+    {
+      "fr": "Inexact",
+      "ar": "غیر مضبوط "
+    },
+    {
+      "fr": "Inférieur",
+      "ar": "أصغر أو سفلي "
+    },
+    {
+      "fr": "Infinimum",
+      "ar": "محد سفلي "
+    },
+    {
+      "fr": "Infini",
+      "ar": "لامنتھي "
+    },
+    {
+      "fr": "Infiniment",
+      "ar": "لامنتاه "
+    },
+    {
+      "fr": "Infinité",
+      "ar": "مالانھایة "
+    },
+    {
+      "fr": "Infinitésimal",
+      "ar": "صغائري "
+    },
+    {
+      "fr": "Inflexion",
+      "ar": "انعطاف "
+    },
+    {
+      "fr": "Initial",
+      "ar": "بدئي "
+    },
+    {
+      "fr": "Injectif",
+      "ar": "تبایني "
+    },
+    {
+      "fr": "Injection",
+      "ar": "تباین "
+    },
+    {
+      "fr": "Instantané",
+      "ar": "آني "
+    },
+    {
+      "fr": "Insuffisant",
+      "ar": "ناقص "
+    },
+    {
+      "fr": "Intégrable",
+      "ar": "قابل للمكاملة "
+    },
+    {
+      "fr": "Intégrale",
+      "ar": "تكامل "
+    },
+    {
+      "fr": "Intégration",
+      "ar": "مكاملة "
+    },
+    {
+      "fr": "Intègre",
+      "ar": "كامل "
+    },
+    {
+      "fr": "Intégrer",
+      "ar": "كامل "
+    },
+    {
+      "fr": "Intérieur",
+      "ar": "داخل أو داخلي "
+    },
+    {
+      "fr": "Interne",
+      "ar": "داخلي "
+    },
+    {
+      "fr": "Interpolation",
+      "ar": "استكمال "
+    },
+    {
+      "fr": "Interprétation",
+      "ar": "تفسیر "
+    },
+    {
+      "fr": "Intersection",
+      "ar": "تقاطع "
+    },
+    {
+      "fr": "Intervalle",
+      "ar": "مجال "
+    },
+    {
+      "fr": "Invariable",
+      "ar": "صامد أو لا متغیر "
+    },
+    {
+      "fr": "Invariance",
+      "ar": "صمود "
+    },
+    {
+      "fr": "Invariant",
+      "ar": "صنمد "
+    },
+    {
+      "fr": "Inverse",
+      "ar": "مقلوب أو عكسي "
+    },
+    {
+      "fr": "Inversement",
+      "ar": "عكسیا "
+    },
+    {
+      "fr": "Inversible",
+      "ar": "قابل للقلب "
+    },
+    {
+      "fr": "Inversion",
+      "ar": "تعاكس "
+    },
+    {
+      "fr": "Irrationnel",
+      "ar": "لاجذري "
+    },
+    {
+      "fr": "Irréductible",
+      "ar": "غیر قابل للإختزال أو الإختصار "
+    },
+    {
+      "fr": "Irrégulier",
+      "ar": "غیر منتظم "
+    },
+    {
+      "fr": "Isocèle",
+      "ar": "متساوي الساقین "
+    },
+    {
+      "fr": "Isolé",
+      "ar": "معزول "
+    },
+    {
+      "fr": "Isométrie",
+      "ar": "تقایس "
+    },
+    {
+      "fr": "Isométrique",
+      "ar": "مقابس أو متقایس "
+    },
+    {
+      "fr": "Isomorphe",
+      "ar": "مشاكل أو متشاكل تقابلیا "
+    },
+    {
+      "fr": "Isomorphisme",
+      "ar": "تشاكل تقابلي "
+    },
+    {
+      "fr": "Itération",
+      "ar": "إعادة "
+    },
+    {
+      "fr": "Itérer",
+      "ar": "أعاد "
+    },
+    {
+      "fr": "Jet",
+      "ar": "رمي أو رمیة "
+    },
+    {
+      "fr": "Jeter",
+      "ar": "رمى "
+    },
+    {
+      "fr": "Jeton",
+      "ar": "بیدقة "
+    },
+    {
+      "fr": "Jeu",
+      "ar": "لعب أو لعبة أو نسقة "
+    },
+    {
+      "fr": "Joindre",
+      "ar": "وصل "
+    },
+    {
+      "fr": "Large",
+      "ar": "عریض "
+    },
+    {
+      "fr": "Largeur",
+      "ar": "عرض "
+    },
+    {
+      "fr": "Latéral",
+      "ar": "جانبي "
+    },
+    {
+      "fr": "Lemme",
+      "ar": "تمھیدة "
+    },
+    {
+      "fr": "Libre",
+      "ar": "حر "
+    },
+    {
+      "fr": "Lié",
+      "ar": "مرتبط أو مقید "
+    },
+    {
+      "fr": "Lien",
+      "ar": "رابطة "
+    },
+    {
+      "fr": "Lier",
+      "ar": "ربط "
+    },
+    {
+      "fr": "Ligne",
+      "ar": "خط أو سطر "
+    },
+    {
+      "fr": "Limite",
+      "ar": "نھایة "
+    },
+    {
+      "fr": "Limité",
+      "ar": "محدود أو محصور أو نھائي "
+    },
+    {
+      "fr": "Limiter",
+      "ar": "حد أو حصر "
+    },
+    {
+      "fr": "Linéaire",
+      "ar": "خطي "
+    },
+    {
+      "fr": "Linéarité",
+      "ar": "خطیة "
+    },
+    {
+      "fr": "Linéarisation",
+      "ar": "إخطاط "
+    },
+    {
+      "fr": "Local",
+      "ar": "محلي "
+    },
+    {
+      "fr": "Localement",
+      "ar": "محلبا "
+    },
+    {
+      "fr": "Logarithme",
+      "ar": "لوغاریتم "
+    },
+    {
+      "fr": "Logarithmique",
+      "ar": "لوغاریتمي "
+    },
+    {
+      "fr": "Logique",
+      "ar": "منطق أو منطقي "
+    },
+    {
+      "fr": "Loi",
+      "ar": "قانون "
+    },
+    {
+      "fr": "Longueur",
+      "ar": "طول "
+    },
+    {
+      "fr": "Losange",
+      "ar": "معین "
+    },
+    {
+      "fr": "Logarithmique",
+      "ar": "لوغاریتمي "
+    },
+    {
+      "fr": "Logique",
+      "ar": "منطق أو منطقي "
+    },
+    {
+      "fr": "Loi",
+      "ar": "قانون "
+    },
+    {
+      "fr": "Longueur",
+      "ar": "طول "
+    },
+    {
+      "fr": "Losange",
+      "ar": "معین "
+    },
+    {
+      "fr": "Majorant",
+      "ar": "كابر "
+    },
+    {
+      "fr": "Majoration",
+      "ar": "إكبار "
+    },
+    {
+      "fr": "Majoré",
+      "ar": "مكبور "
+    },
+    {
+      "fr": "Majorer",
+      "ar": "أكبر "
+    },
+    {
+      "fr": "Marge",
+      "ar": "ھامش "
+    },
+    {
+      "fr": "Marginal",
+      "ar": "ھامشي "
+    },
+    {
+      "fr": "Mathématicien",
+      "ar": "عالم ریاضي أو ریاضیاتي "
+    },
+    {
+      "fr": "Mathématique",
+      "ar": "ریاضي أو ریاضیاتي "
+    },
+    {
+      "fr": "Mathématiques",
+      "ar": "ریاضیات "
+    },
+    {
+      "fr": "Matrice",
+      "ar": "مصفوفة "
+    },
+    {
+      "fr": "Matriciel",
+      "ar": "مصفوفي "
+    },
+    {
+      "fr": "Maximal",
+      "ar": "قصوي "
+    },
+    {
+      "fr": "Maximum",
+      "ar": "أقصى "
+    },
+    {
+      "fr": "Médiane",
+      "ar": "متوسط أو وسط "
+    },
+    {
+      "fr": "Médiatrice",
+      "ar": "واسط "
+    },
+    {
+      "fr": "Membre",
+      "ar": "طرف "
+    },
+    {
+      "fr": "Mesurable",
+      "ar": "قابل للقیاس "
+    },
+    {
+      "fr": "Mesure",
+      "ar": "قیاس "
+    },
+    {
+      "fr": "Mesuré",
+      "ar": "مقاس "
+    },
+    {
+      "fr": "Mesurer",
+      "ar": "قاس "
+    },
+    {
+      "fr": "Méthode",
+      "ar": "طریقة "
+    },
+    {
+      "fr": "Métrique",
+      "ar": "متري "
+    },
+    {
+      "fr": "Milieu",
+      "ar": "منتصف أو وسط "
+    },
+    {
+      "fr": "Mineur",
+      "ar": "قاصر "
+    },
+    {
+      "fr": "Minimal",
+      "ar": "دنوي "
+    },
+    {
+      "fr": "Minimum",
+      "ar": "أدنى "
+    },
+    {
+      "fr": "Minorant",
+      "ar": "صاغر "
+    },
+    {
+      "fr": "Minoration",
+      "ar": "إصغار "
+    },
+    {
+      "fr": "Minoré",
+      "ar": "مصغور "
+    },
+    {
+      "fr": "Minorer",
+      "ar": "أصغر "
+    },
+    {
+      "fr": "Mixte",
+      "ar": "مختلظ "
+    },
+    {
+      "fr": "Modale",
+      "ar": "منوالي "
+    },
+    {
+      "fr": "Mode",
+      "ar": "منوال "
+    },
+    {
+      "fr": "Module",
+      "ar": "معیار "
+    },
+    {
+      "fr": "Modulo",
+      "ar": "تردید "
+    },
+    {
+      "fr": "Moins",
+      "ar": "أقل "
+    },
+    {
+      "fr": "Moitié",
+      "ar": "نصف "
+    },
+    {
+      "fr": "Moment",
+      "ar": "عزم "
+    },
+    {
+      "fr": "Monôme",
+      "ar": "حدیة "
+    },
+    {
+      "fr": "Monotone",
+      "ar": "رتیب "
+    },
+    {
+      "fr": "Monotonie",
+      "ar": "رتابة "
+    },
+    {
+      "fr": "Morceau",
+      "ar": "جزء "
+    },
+    {
+      "fr": "Morphisme",
+      "ar": "تشاكل "
+    },
+    {
+      "fr": "Moyenne",
+      "ar": "معدل "
+    },
+    {
+      "fr": "Multilinéaire",
+      "ar": "خطوطي "
+    },
+    {
+      "fr": "Multiple",
+      "ar": "مضاعف أو متعدد "
+    },
+    {
+      "fr": "Multiplication",
+      "ar": "ضرب "
+    },
+    {
+      "fr": "Multiplicité",
+      "ar": "تعددیة "
+    },
+    {
+      "fr": "Multiplier",
+      "ar": "ضرب "
+    },
+    {
+      "fr": "Muni",
+      "ar": "مزود "
+    },
+    {
+      "fr": "Munir",
+      "ar": "زود "
+    },
+    {
+      "fr": "Nature",
+      "ar": "طبیعة "
+    },
+    {
+      "fr": "Naturel",
+      "ar": "طبیعي "
+    },
+    {
+      "fr": "Nécessaire",
+      "ar": "لازم "
+    },
+    {
+      "fr": "Négatif",
+      "ar": "سالب "
+    },
+    {
+      "fr": "Négation",
+      "ar": "نفي "
+    },
+    {
+      "fr": "Négligeable",
+      "ar": "قابل للإھمال "
+    },
+    {
+      "fr": "Négliger",
+      "ar": "أھمل "
+    },
+    {
+      "fr": "Neutre",
+      "ar": "محاید "
+    },
+    {
+      "fr": "Nilpotent",
+      "ar": "متعدم "
+    },
+    {
+      "fr": "Niveau",
+      "ar": "مستوى "
+    },
+    {
+      "fr": "Nœud",
+      "ar": "عقدة "
+    },
+    {
+      "fr": "Nombre",
+      "ar": "عدد "
+    },
+    {
+      "fr": "Normal",
+      "ar": "منطقي أو عادي "
+    },
+    {
+      "fr": "Norme",
+      "ar": "منظم "
+    },
+    {
+      "fr": "Normé",
+      "ar": "ممنظم "
+    },
+    {
+      "fr": "Notation",
+      "ar": "كتابة أو اصطلاح "
+    },
+    {
+      "fr": "Notion",
+      "ar": "مفھوم "
+    },
+    {
+      "fr": "Noyau",
+      "ar": "نواة "
+    },
+    {
+      "fr": "Nul",
+      "ar": "منعدم "
+    },
+    {
+      "fr": "Numérateur",
+      "ar": "بسط "
+    },
+    {
+      "fr": "Numération",
+      "ar": "عد "
+    },
+    {
+      "fr": "Numérique",
+      "ar": "عددي "
+    },
+    {
+      "fr": "Numéro",
+      "ar": "رقم "
+    },
+    {
+      "fr": "Numérotage",
+      "ar": "ترقیم "
+    },
+    {
+      "fr": "Numéroté",
+      "ar": "مرقم "
+    },
+    {
+      "fr": "Numéroter",
+      "ar": "رقم "
+    },
+    {
+      "fr": "Objet",
+      "ar": "كائن "
+    },
+    {
+      "fr": "Oblique",
+      "ar": "مائل "
+    },
+    {
+      "fr": "Obtus",
+      "ar": "منفرج "
+    },
+    {
+      "fr": "Observation",
+      "ar": "ملاحظة "
+    },
+    {
+      "fr": "Observé",
+      "ar": "اعتباري أو ملاحظ "
+    },
+    {
+      "fr": "Octal",
+      "ar": "ثمني "
+    },
+    {
+      "fr": "Omettre",
+      "ar": "أغفل "
+    },
+    {
+      "fr": "Omission",
+      "ar": "إغفال "
+    },
+    {
+      "fr": "Opérer",
+      "ar": "أثر "
+    },
+    {
+      "fr": "Opérateur",
+      "ar": "مؤثر "
+    },
+    {
+      "fr": "Opération",
+      "ar": "عملیة "
+    },
+    {
+      "fr": "Opposé",
+      "ar": "مقابل أو متقابل "
+    },
+    {
+      "fr": "Opposition",
+      "ar": "مقابلة "
+    },
+    {
+      "fr": "Orbite",
+      "ar": "مدار "
+    },
+    {
+      "fr": "Ordinal",
+      "ar": "ترتیبي "
+    },
+    {
+      "fr": "Ordonné",
+      "ar": "مرتب "
+    },
+    {
+      "fr": "Ordonnée",
+      "ar": "أرتوب "
+    },
+    {
+      "fr": "Ordonner",
+      "ar": "رتب "
+    },
+    {
+      "fr": "Ordre",
+      "ar": "ترتیب أو رتبة "
+    },
+    {
+      "fr": "Organigramme",
+      "ar": "مخطط تنظیمي "
+    },
+    {
+      "fr": "Orientation",
+      "ar": "توجیه "
+    },
+    {
+      "fr": "Orienté",
+      "ar": "موجه "
+    },
+    {
+      "fr": "Origine",
+      "ar": "أصل "
+    },
+    {
+      "fr": "Orthogonal",
+      "ar": "عمودي أو متعامد "
+    },
+    {
+      "fr": "Orthonormal",
+      "ar": "متعامد ممنظم "
+    },
+    {
+      "fr": "Orthonormé",
+      "ar": "متعامد ممنظم "
+    },
+    {
+      "fr": "Ouvert",
+      "ar": "مفتوح "
+    },
+    {
+      "fr": "Ordinal",
+      "ar": "ترتیبي "
+    },
+    {
+      "fr": "Ordonné",
+      "ar": "مرتب "
+    },
+    {
+      "fr": "Ordonnée",
+      "ar": "أرتوب "
+    },
+    {
+      "fr": "Ordonner",
+      "ar": "رتب "
+    },
+    {
+      "fr": "Ordre",
+      "ar": "ترتیب أو رتبة "
+    },
+    {
+      "fr": "Organigramme",
+      "ar": "مخطط تنظیمي "
+    },
+    {
+      "fr": "Orientation",
+      "ar": "توجیه"
+    },
+    {
+      "fr": "Orienté",
+      "ar": "موجه "
+    },
+    {
+      "fr": "Origine",
+      "ar": "أصل "
+    },
+    {
+      "fr": "Orthogonal",
+      "ar": "عمودي أو متعامد "
+    },
+    {
+      "fr": "Orthonormal",
+      "ar": "متعامد ممنظم "
+    },
+    {
+      "fr": "Orthonormé",
+      "ar": "متعامد ممنظم "
+    },
+    {
+      "fr": "Ouvert",
+      "ar": "مفتوح "
+    },
+    {
+      "fr": "Pair",
+      "ar": "زوجي "
+    },
+    {
+      "fr": "Paire",
+      "ar": "ثنائیة "
+    },
+    {
+      "fr": "Parabole",
+      "ar": "شلجم "
+    },
+    {
+      "fr": "Parabolique",
+      "ar": "شلجمي "
+    },
+    {
+      "fr": "Parallèle",
+      "ar": "موازي أو متوازي "
+    },
+    {
+      "fr": "Parallélépipède",
+      "ar": "متوازي الأوجه "
+    },
+    {
+      "fr": "Parallélisme",
+      "ar": "تواز "
+    },
+    {
+      "fr": "Parallélogramme",
+      "ar": "متوازي الأضلاع "
+    },
+    {
+      "fr": "Paramètre",
+      "ar": "وسیط "
+    },
+    {
+      "fr": "Paramétrique",
+      "ar": "وسیطي "
+    },
+    {
+      "fr": "Parenthèse",
+      "ar": "قوس "
+    },
+    {
+      "fr": "Part",
+      "ar": "نصیب أو قسط "
+    },
+    {
+      "fr": "Partage",
+      "ar": "تقسیم "
+    },
+    {
+      "fr": "Partager",
+      "ar": "قسم "
+    },
+    {
+      "fr": "Particularité",
+      "ar": "خاصیة "
+    },
+    {
+      "fr": "Particulier",
+      "ar": "خاص "
+    },
+    {
+      "fr": "Partie",
+      "ar": "جزء "
+    },
+    {
+      "fr": "Partiel",
+      "ar": "جزئي "
+    },
+    {
+      "fr": "Partition",
+      "ar": "تجزئة "
+    },
+    {
+      "fr": "Partout",
+      "ar": "أنا كان "
+    },
+    {
+      "fr": "Pas",
+      "ar": "خطوة "
+    },
+    {
+      "fr": "Passage",
+      "ar": "مرور "
+    },
+    {
+      "fr": "Pavé",
+      "ar": "رصفة "
+    },
+    {
+      "fr": "Pente",
+      "ar": "میل "
+    },
+    {
+      "fr": "Périmètre",
+      "ar": "محیط "
+    },
+    {
+      "fr": "Période",
+      "ar": "دور "
+    },
+    {
+      "fr": "Périodicité",
+      "ar": "دوریة "
+    },
+    {
+      "fr": "Périodique",
+      "ar": "دوري "
+    },
+    {
+      "fr": "Permutation",
+      "ar": "تبدیلة "
+    },
+    {
+      "fr": "Permuter",
+      "ar": "بادل "
+    },
+    {
+      "fr": "Perpendiculaire",
+      "ar": "عمودي أو متعامد "
+    },
+    {
+      "fr": "Phénomène",
+      "ar": "ظاھرة "
+    },
+    {
+      "fr": "Pièce",
+      "ar": "قطعة "
+    },
+    {
+      "fr": "Placer",
+      "ar": "وضع "
+    },
+    {
+      "fr": "Plan",
+      "ar": "مستو أو مستوى "
+    },
+    {
+      "fr": "Plus",
+      "ar": "أكثر "
+    },
+    {
+      "fr": "Plusieurs",
+      "ar": "عدة "
+    },
+    {
+      "fr": "Poids",
+      "ar": "وزن "
+    },
+    {
+      "fr": "Point",
+      "ar": "نقطة "
+    },
+    {
+      "fr": "Pointé",
+      "ar": "منقط "
+    },
+    {
+      "fr": "Polygone",
+      "ar": "مضلع "
+    },
+    {
+      "fr": "Polynôme",
+      "ar": "حدودیة "
+    },
+    {
+      "fr": "Polynomial",
+      "ar": "حدودي "
+    },
+    {
+      "fr": "Pondération",
+      "ar": "اتزان "
+    },
+    {
+      "fr": "Pondéré",
+      "ar": "متزن "
+    },
+    {
+      "fr": "Population",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Portion",
+      "ar": "جزء "
+    },
+    {
+      "fr": "Poser",
+      "ar": "وضع "
+    },
+    {
+      "fr": "Positif",
+      "ar": "موجب "
+    },
+    {
+      "fr": "Position",
+      "ar": "موضع أو وضع "
+    },
+    {
+      "fr": "Possibilité",
+      "ar": "إمكانیة "
+    },
+    {
+      "fr": "Possible",
+      "ar": "ممكن "
+    },
+    {
+      "fr": "Postulat",
+      "ar": "موضوعة "
+    },
+    {
+      "fr": "Pourcentage",
+      "ar": "نسبة مئویة "
+    },
+    {
+      "fr": "Pratique",
+      "ar": "عملي أو تطبیقي "
+    },
+    {
+      "fr": "Précéder",
+      "ar": "سبق "
+    },
+    {
+      "fr": "Précis",
+      "ar": "دقیق "
+    },
+    {
+      "fr": "Précisément",
+      "ar": "بالتدقیق "
+    },
+    {
+      "fr": "Préciser",
+      "ar": "دقق أو حدد "
+    },
+    {
+      "fr": "Précision",
+      "ar": "دقة أو تدقیق "
+    },
+    {
+      "fr": "Prédécesseur",
+      "ar": "سالف "
+    },
+    {
+      "fr": "Prélèvement",
+      "ar": "أخیذة "
+    },
+    {
+      "fr": "Premier",
+      "ar": "أولي "
+    },
+    {
+      "fr": "Près",
+      "ar": "قرب "
+    },
+    {
+      "fr": "Presque",
+      "ar": "تقریبا "
+    },
+    {
+      "fr": "Preuve",
+      "ar": "برھان "
+    },
+    {
+      "fr": "Prévision",
+      "ar": "توقع "
+    },
+    {
+      "fr": "Primitive",
+      "ar": "أصلیة "
+    },
+    {
+      "fr": "Principal",
+      "ar": "رئیسي "
+    },
+    {
+      "fr": "Principe",
+      "ar": "مبدأ "
+    },
+    {
+      "fr": "Probabilisable",
+      "ar": "قابل للإحتمال "
+    },
+    {
+      "fr": "Probabilisé",
+      "ar": "إحتمالي "
+    },
+    {
+      "fr": "Probabiliste",
+      "ar": "أحتمالي "
+    },
+    {
+      "fr": "Probabilité",
+      "ar": "إحتمال "
+    },
+    {
+      "fr": "Problème",
+      "ar": "مسألة "
+    },
+    {
+      "fr": "Procédé",
+      "ar": "طریقة "
+    },
+    {
+      "fr": "Produit",
+      "ar": "جداء "
+    },
+    {
+      "fr": "Programmation",
+      "ar": "برمجة "
+    },
+    {
+      "fr": "Progressif",
+      "ar": "متصاعد "
+    },
+    {
+      "fr": "Progression",
+      "ar": "متوالیة "
+    },
+    {
+      "fr": "Projecteur",
+      "ar": "مسقط "
+    },
+    {
+      "fr": "Projectif",
+      "ar": "إسقاطي "
+    },
+    {
+      "fr": "Projection",
+      "ar": "إسقاط أو مسقط "
+    },
+    {
+      "fr": "Prolongement",
+      "ar": "تمدید "
+    },
+    {
+      "fr": "Prolonger",
+      "ar": "مدد "
+    },
+    {
+      "fr": "Proportion",
+      "ar": "تناسب "
+    },
+    {
+      "fr": "Proportionnel",
+      "ar": "متناسب "
+    },
+    {
+      "fr": "Proposer",
+      "ar": "إقترح "
+    },
+    {
+      "fr": "Proposition",
+      "ar": "عبارة "
+    },
+    {
+      "fr": "Propre",
+      "ar": "فعلي "
+    },
+    {
+      "fr": "Propriété",
+      "ar": "خاصیة "
+    },
+    {
+      "fr": "Puisque",
+      "ar": "بما أن "
+    },
+    {
+      "fr": "Puissance",
+      "ar": "قوة "
+    },
+    {
+      "fr": "Pure",
+      "ar": "صرف "
+    },
+    {
+      "fr": "Pyramidal",
+      "ar": "ھرمي "
+    },
+    {
+      "fr": "Pyramide",
+      "ar": "ھرم "
+    },
+    {
+      "fr": "Quadrant",
+      "ar": "مرباع "
+    },
+    {
+      "fr": "Quadratique",
+      "ar": "أربوعي "
+    },
+    {
+      "fr": "Quadrature",
+      "ar": "استرباع "
+    },
+    {
+      "fr": "Quadrilatère",
+      "ar": "رباعي "
+    },
+    {
+      "fr": "Quadrillage",
+      "ar": "تربیع "
+    },
+    {
+      "fr": "Quadruple",
+      "ar": "مربع "
+    },
+    {
+      "fr": "Quadruplet",
+      "ar": "مربوع "
+    },
+    {
+      "fr": "Qualitatif",
+      "ar": "كیفي "
+    },
+    {
+      "fr": "Qualité",
+      "ar": "صفة "
+    },
+    {
+      "fr": "Quantificateur",
+      "ar": "مكمم "
+    },
+    {
+      "fr": "Quantification",
+      "ar": "تكمیم "
+    },
+    {
+      "fr": "Quantifié",
+      "ar": "مكمم "
+    },
+    {
+      "fr": "Quantitatif",
+      "ar": "كمي "
+    },
+    {
+      "fr": "Quantité",
+      "ar": "كمیة "
+    },
+    {
+      "fr": "Quart",
+      "ar": "ربع "
+    },
+    {
+      "fr": "Quarrable",
+      "ar": "روبعي "
+    },
+    {
+      "fr": "Quelconque",
+      "ar": "أیا كان "
+    },
+    {
+      "fr": "Question",
+      "ar": "سؤال "
+    },
+    {
+      "fr": "Questionnaire",
+      "ar": "تسائل "
+    },
+    {
+      "fr": "Quotient",
+      "ar": "خارج "
+    },
+    {
+      "fr": "Racine",
+      "ar": "جذر "
+    },
+    {
+      "fr": "Radical",
+      "ar": "جدر "
+    },
+    {
+      "fr": "Raison",
+      "ar": "أساس "
+    },
+    {
+      "fr": "Raisonnement",
+      "ar": "إستدلال "
+    },
+    {
+      "fr": "Rang",
+      "ar": "صف "
+    },
+    {
+      "fr": "Rangée",
+      "ar": "صفیفة "
+    },
+    {
+      "fr": "Ranger",
+      "ar": "صف "
+    },
+    {
+      "fr": "Rappel",
+      "ar": "تذكیر "
+    },
+    {
+      "fr": "Rappeler",
+      "ar": "ذكر "
+    },
+    {
+      "fr": "Rapport",
+      "ar": "نسبة "
+    },
+    {
+      "fr": "Rationnel",
+      "ar": "جذري "
+    },
+    {
+      "fr": "Rayon",
+      "ar": "شعاع "
+    },
+    {
+      "fr": "Réalisation",
+      "ar": "إنجاز "
+    },
+    {
+      "fr": "Recensement",
+      "ar": "إحصاء "
+    },
+    {
+      "fr": "Recenser",
+      "ar": "أحصى "
+    },
+    {
+      "fr": "Recherche",
+      "ar": "بحث "
+    },
+    {
+      "fr": "Réciproque",
+      "ar": "عكسي "
+    },
+    {
+      "fr": "Recouvrement",
+      "ar": "تغطیة "
+    },
+    {
+      "fr": "Rectangle",
+      "ar": "مستطیل "
+    },
+    {
+      "fr": "Rectifier",
+      "ar": "عدل "
+    },
+    {
+      "fr": "Récurrence",
+      "ar": "ترجح "
+    },
+    {
+      "fr": "Récurrent",
+      "ar": "ترجحي "
+    },
+    {
+      "fr": "Réduction",
+      "ar": "إختصار أو إختزال "
+    },
+    {
+      "fr": "Réduire",
+      "ar": "إختصر أو إختزل "
+    },
+    {
+      "fr": "Réduit",
+      "ar": "مختصر أو مختزل "
+    },
+    {
+      "fr": "Réel",
+      "ar": "حقیقي "
+    },
+    {
+      "fr": "Réflexive",
+      "ar": "انعكاسیة "
+    },
+    {
+      "fr": "Réflexivité",
+      "ar": "إنعكاسیة "
+    },
+    {
+      "fr": "Région",
+      "ar": "منطقة "
+    },
+    {
+      "fr": "Règle",
+      "ar": "مسطرة أو قاعدة "
+    },
+    {
+      "fr": "Régulier",
+      "ar": "منتظم "
+    },
+    {
+      "fr": "Relatif",
+      "ar": "نسبي "
+    },
+    {
+      "fr": "Relation",
+      "ar": "علاقة "
+    },
+    {
+      "fr": "Relativement",
+      "ar": "نسبیا أو نسبة "
+    },
+    {
+      "fr": "Remarquable",
+      "ar": "ملاحظ أو ھام "
+    },
+    {
+      "fr": "Remarque",
+      "ar": "ملاحظة "
+    },
+    {
+      "fr": "Remarquer",
+      "ar": "لاحظ "
+    },
+    {
+      "fr": "Remise",
+      "ar": "إحلال "
+    },
+    {
+      "fr": "Remise",
+      "ar": "إحلال "
+    },
+    {
+      "fr": "Répartition",
+      "ar": "تجزئ "
+    },
+    {
+      "fr": "Repère",
+      "ar": "معلم "
+    },
+    {
+      "fr": "Répété",
+      "ar": "مكرر "
+    },
+    {
+      "fr": "Répétition",
+      "ar": "تكرار "
+    },
+    {
+      "fr": "Réponse",
+      "ar": "جواب "
+    },
+    {
+      "fr": "Représentant",
+      "ar": "ممثل "
+    },
+    {
+      "fr": "Représentation",
+      "ar": "تمثیل "
+    },
+    {
+      "fr": "Réseau",
+      "ar": "شبكة "
+    },
+    {
+      "fr": "Résidu",
+      "ar": "متبقي "
+    },
+    {
+      "fr": "Résolution",
+      "ar": "حل "
+    },
+    {
+      "fr": "Résoudre",
+      "ar": "حل "
+    },
+    {
+      "fr": "Respectif",
+      "ar": "متوال "
+    },
+    {
+      "fr": "Respectivement",
+      "ar": "على التوالي "
+    },
+    {
+      "fr": "Reste",
+      "ar": "باق "
+    },
+    {
+      "fr": "Restriction",
+      "ar": "قصور "
+    },
+    {
+      "fr": "Résultat",
+      "ar": "نتیجة "
+    },
+    {
+      "fr": "Retenir",
+      "ar": "احتفظ "
+    },
+    {
+      "fr": "Retenu",
+      "ar": "إحتفاظ "
+    },
+    {
+      "fr": "Retrait",
+      "ar": "سحب "
+    },
+    {
+      "fr": "Retrancher",
+      "ar": "طرح "
+    },
+    {
+      "fr": "Rétrograde",
+      "ar": "رجعي "
+    },
+    {
+      "fr": "Réunion",
+      "ar": "إنحاد "
+    },
+    {
+      "fr": "Risque",
+      "ar": "مجازفة "
+    },
+    {
+      "fr": "Rotation",
+      "ar": "دوران "
+    },
+    {
+      "fr": "Sac",
+      "ar": "كیس "
+    },
+    {
+      "fr": "Scalaire",
+      "ar": "سلمي "
+    },
+    {
+      "fr": "Schéma",
+      "ar": "رشم "
+    },
+    {
+      "fr": "Sécante",
+      "ar": "قاطعة "
+    },
+    {
+      "fr": "Secteur",
+      "ar": "قطاع "
+    },
+    {
+      "fr": "Section",
+      "ar": "مقطع "
+    },
+    {
+      "fr": "Sectoriel",
+      "ar": "قطاعي "
+    },
+    {
+      "fr": "Segment",
+      "ar": "قطعة "
+    },
+    {
+      "fr": "Semblable",
+      "ar": "مشابه أو متشابه "
+    },
+    {
+      "fr": "Sens",
+      "ar": "منحى "
+    },
+    {
+      "fr": "Séparable",
+      "ar": "قابل للإنفصال "
+    },
+    {
+      "fr": "Séparé",
+      "ar": "منفصل "
+    },
+    {
+      "fr": "Série",
+      "ar": "متسلسلة "
+    },
+    {
+      "fr": "Seuil",
+      "ar": "عتبة "
+    },
+    {
+      "fr": "Si",
+      "ar": "إذا "
+    },
+    {
+      "fr": "Signe",
+      "ar": "إشارة "
+    },
+    {
+      "fr": "Significatif",
+      "ar": "ذو دلالة "
+    },
+    {
+      "fr": "Signification",
+      "ar": "دلالة أو معنى "
+    },
+    {
+      "fr": "Signifier",
+      "ar": "دل أو عنى "
+    },
+    {
+      "fr": "Similitude",
+      "ar": "تشابه "
+    },
+    {
+      "fr": "Simple",
+      "ar": "بسیط "
+    },
+    {
+      "fr": "Simplexe",
+      "ar": "تبسیطة "
+    },
+    {
+      "fr": "Simplification",
+      "ar": "تبسیط "
+    },
+    {
+      "fr": "Simplifier",
+      "ar": "بسط "
+    },
+    {
+      "fr": "Simultané",
+      "ar": "متآن "
+    },
+    {
+      "fr": "Simultanément",
+      "ar": "تآنیا "
+    },
+    {
+      "fr": "Singleton",
+      "ar": "أحادیة "
+    },
+    {
+      "fr": "Singulier",
+      "ar": "مفرد "
+    },
+    {
+      "fr": "Sinus",
+      "ar": "جیب "
+    },
+    {
+      "fr": "Solution",
+      "ar": "حل "
+    },
+    {
+      "fr": "Sommation",
+      "ar": "تجمیع "
+    },
+    {
+      "fr": "Somme",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Sommet",
+      "ar": "رأس "
+    },
+    {
+      "fr": "Sondage",
+      "ar": "سبر "
+    },
+    {
+      "fr": "Soustraction",
+      "ar": "طرح "
+    },
+    {
+      "fr": "Soustraire",
+      "ar": "طرح "
+    },
+    {
+      "fr": "Sphère",
+      "ar": "فلكة أو كرة "
+    },
+    {
+      "fr": "Sphérique",
+      "ar": "فلكي أو كروي "
+    },
+    {
+      "fr": "Stable",
+      "ar": "مستقر "
+    },
+    {
+      "fr": "Standard",
+      "ar": "معیاري "
+    },
+    {
+      "fr": "Stationnaire",
+      "ar": "متوقف "
+    },
+    {
+      "fr": "Statistique",
+      "ar": "إحصائي "
+    },
+    {
+      "fr": "Statistiques",
+      "ar": "إحصائیات "
+    },
+    {
+      "fr": "Strict",
+      "ar": "قطعي "
+    },
+    {
+      "fr": "Strictement",
+      "ar": "قطعا "
+    },
+    {
+      "fr": "Structure",
+      "ar": "بنیة "
+    },
+    {
+      "fr": "Subdivision",
+      "ar": "تقسیمة "
+    },
+    {
+      "fr": "Succès",
+      "ar": "نجاح "
+    },
+    {
+      "fr": "Successeur",
+      "ar": "تالي "
+    },
+    {
+      "fr": "Successif",
+      "ar": "متتال "
+    },
+    {
+      "fr": "Succession",
+      "ar": "توالي "
+    },
+    {
+      "fr": "Suffisant",
+      "ar": "كاف "
+    },
+    {
+      "fr": "Suite",
+      "ar": "متتالیة "
+    },
+    {
+      "fr": "Suivant",
+      "ar": "تابع "
+    },
+    {
+      "fr": "Superficie",
+      "ar": "مساحة "
+    },
+    {
+      "fr": "Supérieur",
+      "ar": "أكبر أو علوي "
+    },
+    {
+      "fr": "Superposition",
+      "ar": "تطابق "
+    },
+    {
+      "fr": "Supplémentaire",
+      "ar": "مكمل "
+    },
+    {
+      "fr": "Support",
+      "ar": "حامل "
+    },
+    {
+      "fr": "Supposer",
+      "ar": "افترض "
+    },
+    {
+      "fr": "Supposition",
+      "ar": "إفتراض "
+    },
+    {
+      "fr": "Suprémum",
+      "ar": "محد علوي "
+    },
+    {
+      "fr": "Surface",
+      "ar": "سطح أو مساحة "
+    },
+    {
+      "fr": "Surjectif",
+      "ar": "شمولي "
+    },
+    {
+      "fr": "Symbole",
+      "ar": "رمز "
+    },
+    {
+      "fr": "Symétrie",
+      "ar": "تماثل "
+    },
+    {
+      "fr": "Symétrique",
+      "ar": "تماثلي أو متماثل أو مماثل "
+    },
+    {
+      "fr": "Symétrisation",
+      "ar": "مماثلة "
+    },
+    {
+      "fr": "Synthèse",
+      "ar": "تولیف "
+    },
+    {
+      "fr": "Système",
+      "ar": "نظمة "
+    },
+    {
+      "fr": "Table",
+      "ar": "جدول "
+    },
+    {
+      "fr": "Tableau",
+      "ar": "لوحة أو جدول أو سبورة "
+    },
+    {
+      "fr": "Tangent",
+      "ar": "مماس أو ظل "
+    },
+    {
+      "fr": "Tangente",
+      "ar": "مماس أو ظل "
+    },
+    {
+      "fr": "Taux",
+      "ar": "نسبة "
+    },
+    {
+      "fr": "Technique",
+      "ar": "تقنیة أو تقني"
+    },
+    {
+      "fr": "Tendre",
+      "ar": "تناھى"
+    },
+    {
+      "fr": "Terme",
+      "ar": "حد "
+    },
+    {
+      "fr": "Test",
+      "ar": "روز "
+    },
+    {
+      "fr": "Théorème",
+      "ar": "مبرھنة "
+    },
+    {
+      "fr": "Théorie",
+      "ar": "نظریة "
+    },
+    {
+      "fr": "Tirage",
+      "ar": "سحب "
+    },
+    {
+      "fr": "Tirer",
+      "ar": "سحب "
+    },
+    {
+      "fr": "Topologie",
+      "ar": "طوبولوجیا "
+    },
+    {
+      "fr": "Topologique",
+      "ar": "طوبولوجي "
+    },
+    {
+      "fr": "Total",
+      "ar": "مجموع أو جمع "
+    },
+    {
+      "fr": "Totaliser",
+      "ar": "جمع "
+    },
+    {
+      "fr": "Trace",
+      "ar": "أثر "
+    },
+    {
+      "fr": "Tracé",
+      "ar": "مخط "
+    },
+    {
+      "fr": "Tracer",
+      "ar": "خط "
+    },
+    {
+      "fr": "Trait",
+      "ar": "خط "
+    },
+    {
+      "fr": "Trajectoire",
+      "ar": "مسار "
+    },
+    {
+      "fr": "Trajet",
+      "ar": "مسیر "
+    },
+    {
+      "fr": "Transformation",
+      "ar": "تحویل "
+    },
+    {
+      "fr": "Transformé",
+      "ar": "محول "
+    },
+    {
+      "fr": "Transformer",
+      "ar": "حول "
+    },
+    {
+      "fr": "Transitive",
+      "ar": "متعدیة "
+    },
+    {
+      "fr": "Transitivité",
+      "ar": "تعد "
+    },
+    {
+      "fr": "Translaté",
+      "ar": "مزاح "
+    },
+    {
+      "fr": "Translation",
+      "ar": "إزاحة "
+    },
+    {
+      "fr": "Transposé",
+      "ar": "منقول "
+    },
+    {
+      "fr": "Transposition",
+      "ar": "نقل "
+    },
+    {
+      "fr": "Trapèze",
+      "ar": "شبه منحرف "
+    },
+    {
+      "fr": "Triangle",
+      "ar": "مثلث "
+    },
+    {
+      "fr": "Triangulaire",
+      "ar": "مثلثي "
+    },
+    {
+      "fr": "Triangulation",
+      "ar": "مثلثة "
+    },
+    {
+      "fr": "Tribu",
+      "ar": "قبیلة "
+    },
+    {
+      "fr": "Trigonalisable",
+      "ar": "قابل للمثلثة "
+    },
+    {
+      "fr": "Trigonaliser",
+      "ar": "مثلث "
+    },
+    {
+      "fr": "Trigonométrie",
+      "ar": "حساب المثلثات "
+    },
+    {
+      "fr": "Trigonométrique",
+      "ar": "مثلثي "
+    },
+    {
+      "fr": "Triplet",
+      "ar": "مثلوث "
+    },
+    {
+      "fr": "Trivial",
+      "ar": "تافه"
+    },
+    {
+      "fr": "Type",
+      "ar": "طراز "
+    },
+    {
+      "fr": "Unicité",
+      "ar": "وحدانیة "
+    },
+    {
+      "fr": "Uniforme",
+      "ar": "محتتن أو منتظم "
+    },
+    {
+      "fr": "Uniformément",
+      "ar": "احتتان أو انتظام "
+    },
+    {
+      "fr": "Union",
+      "ar": "اتحاد "
+    },
+    {
+      "fr": "Unique",
+      "ar": "وحید "
+    },
+    {
+      "fr": "Unitaire",
+      "ar": "واحدي "
+    },
+    {
+      "fr": "Unité",
+      "ar": "وحدة "
+    },
+    {
+      "fr": "Univers",
+      "ar": "كون "
+    },
+    {
+      "fr": "Urne",
+      "ar": "صندوق "
+    },
+    {
+      "fr": "Usuel",
+      "ar": "إعتیادي "
+    },
+    {
+      "fr": "Usuellement",
+      "ar": "إعتیادیا "
+    },
+    {
+      "fr": "Utile",
+      "ar": "مھم "
+    },
+    {
+      "fr": "Utilisation",
+      "ar": "إستعمال "
+    },
+    {
+      "fr": "Utiliser",
+      "ar": "استعمل "
+    },
+    {
+      "fr": "Valeur",
+      "ar": "قیمة "
+    },
+    {
+      "fr": "Variable",
+      "ar": "متغیر "
+    },
+    {
+      "fr": "Variance",
+      "ar": "مغایرة "
+    },
+    {
+      "fr": "Variation",
+      "ar": "تغیر "
+    },
+    {
+      "fr": "Vecteur",
+      "ar": "متجھة "
+    },
+    {
+      "fr": "Vectoriel",
+      "ar": "متجھي "
+    },
+    {
+      "fr": "Vérification",
+      "ar": "تحقق "
+    },
+    {
+      "fr": "Valeur",
+      "ar": "قیمة "
+    },
+    {
+      "fr": "Variable",
+      "ar": "متغیر "
+    },
+    {
+      "fr": "Variance",
+      "ar": "مغایرة "
+    },
+    {
+      "fr": "Variation",
+      "ar": "تغیر "
+    },
+    {
+      "fr": "Vecteur",
+      "ar": "متجھة "
+    },
+    {
+      "fr": "Vectoriel",
+      "ar": "متجھي "
+    },
+    {
+      "fr": "Vérification",
+      "ar": "تحقق "
+    },
+    {
+      "fr": "Xylène",
+      "ar": "زیلین "
+    },
+    {
+      "fr": "Zone de stabilité",
+      "ar": "منطقة الإستقرار"
+    },
+    {
+      "fr": "Zone de transition",
+      "ar": "منطقة وسیطیة "
+    },
+    {
+      "fr": "Zone de virage",
+      "ar": "منطقة  الإبعطاف"
+    }
+  ]
+

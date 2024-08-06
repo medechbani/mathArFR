@@ -1,0 +1,1910 @@
+[
+    {
+        "fr": "Calculer",
+        "ar": "أحسب"
+    },
+    {
+        "fr": "Donc alors",
+        "ar": "اذن"
+    },
+    {
+        "fr": "Déterminer",
+        "ar": "حدد"
+    },
+    {
+        "fr": "Développer",
+        "ar": "أنشر"
+    },
+    {
+        "fr": "Factoriser",
+        "ar": "عمل"
+    },
+    {
+        "fr": "On sait que",
+        "ar": "نعلم أن"
+    },
+    {
+        "fr": "On montre que",
+        "ar": "نبين أن"
+    },
+    {
+        "fr": "On prend",
+        "ar": "نأخذ"
+    },
+    {
+        "fr": "On suppose",
+        "ar": "نفترض أن"
+    },
+    {
+        "fr": "On obtient",
+        "ar": "نحصل على"
+    },
+    {
+        "fr": "On pose",
+        "ar": "نضع"
+    },
+    {
+        "fr": "On conclut que",
+        "ar": "نستنتج ان"
+    },
+    {
+        "fr": "Ordre",
+        "ar": "ترتيب"
+    },
+    {
+        "fr": "Inverse",
+        "ar": "مقلوب"
+    },
+    {
+        "fr": "Quel que soit",
+        "ar": "مهما يكن"
+    },
+    {
+        "fr": "Justifier",
+        "ar": "علل"
+    },
+    {
+        "fr": "Verifier que",
+        "ar": "تحقق ان"
+    },
+    {
+        "fr": "lorsque",
+        "ar": "عندما"
+    },
+    {
+        "fr": "Puisque",
+        "ar": "بما ان"
+    },
+    {
+        "fr": "Pour tout",
+        "ar": "لكل"
+    },
+    {
+        "fr": "Devient",
+        "ar": "تصبح"
+    },
+    {
+        "fr": "Différence",
+        "ar": "فرق"
+    },
+    {
+        "fr": "Division",
+        "ar": "قسمة"
+    },
+    {
+        "fr": "Plus petit que ou inferieur",
+        "ar": "اصغر من"
+    },
+    {
+        "fr": "Plus grand que ou supérieur",
+        "ar": "أكبر من"
+    },
+    {
+        "fr": "Puissance",
+        "ar": "قوى"
+    },
+    {
+        "fr": "Numérateur",
+        "ar": "بسط"
+    },
+    {
+        "fr": "Dénominateur",
+        "ar": "مقام"
+    },
+    {
+        "fr": "Positif",
+        "ar": "موجب"
+    },
+    {
+        "fr": "Négatif",
+        "ar": "سالب"
+    },
+    {
+        "fr": "démontrer que",
+        "ar": "برهن أن"
+    },
+    {
+        "fr": "Démonstration",
+        "ar": "برهان"
+    },
+    {
+        "fr": "Egal",
+        "ar": "يساوي"
+    },
+    {
+        "fr": "Existe",
+        "ar": "يوجد"
+    },
+    {
+        "fr": "Inclus",
+        "ar": "ضمن"
+    },
+    {
+        "fr": "Appartient a",
+        "ar": "ينتمي الى"
+    },
+    {
+        "fr": "Compris entre",
+        "ar": "محصور بين"
+    },
+    {
+        "fr": "Soustraction",
+        "ar": "طرح"
+    },
+    {
+        "fr": "Symbole / nnotation",
+        "ar": "رمز"
+    },
+    {
+        "fr": "Soit ;soient",
+        "ar": "ليكن"
+    },
+    {
+        "fr": "Tel que",
+        "ar": "بحيث"
+    },
+    {
+        "fr": "Si et seulement Si",
+        "ar": "اذا وفقط اذا"
+    },
+    {
+        "fr": "signe",
+        "ar": "اشارة"
+    },
+    {
+        "fr": "Identité remarquable",
+        "ar": "متطابقة هامة"
+    },
+    {
+        "fr": "Ensemble",
+        "ar": "مجموعة"
+    },
+    {
+        "fr": "Elément",
+        "ar": "عنصر"
+    },
+    {
+        "fr": "Image",
+        "ar": "صورة"
+    },
+    {
+        "fr": "Donnée",
+        "ar": "معطيات"
+    },
+    {
+        "fr": "Si ....alors",
+        "ar": "اذاكان...فان"
+    },
+    {
+        "fr": "Hypothèse ",
+        "ar": "افتراض"
+    },
+    {
+        "fr" : "Réduire",
+        "ar": "اختزل اختصر"
+    },
+    {
+        "fr": "Résoudre",
+        "ar": "حل"
+      },
+      {
+        "fr": "Remarque",
+        "ar": "ملاحظة"
+      },
+      {
+        "fr": "Remplacer",
+        "ar": "عوص"
+      },
+      {
+        "fr": "On déduire que",
+        "ar": "استنتح ان"
+      },
+      {
+        "fr": "On dit que",
+        "ar": "نقول أن"
+      },
+      {
+        "fr": "On admet",
+        "ar": "نقبل"
+      },
+      {
+        "fr": "Opérations",
+        "ar": "عمليات"
+      },
+      {
+        "fr": "Opposé",
+        "ar": "مقابل"
+      },
+      {
+        "fr": "Or on a",
+        "ar": "علما أن"
+      },
+      {
+        "fr": "Equivalent a",
+        "ar": "يكافئ"
+      },
+      {
+        "fr": "Equation",
+        "ar": "معادلة"
+      },
+      {
+        "fr": "inéquation",
+        "ar": "متراجحة"
+      },
+      {
+        "fr": "Entier",
+        "ar": " عدد صحيح"
+      },
+      {
+        "fr": "Egalité",
+        "ar": "متساوبة"
+      },
+      {
+        "fr": "intersection",
+        "ar": "تقاطع"
+      },
+      {
+        "fr": "Passe par",
+        "ar": "يمر من"
+      },
+      {
+        "fr": "Exposant",
+        "ar": "أس"
+      },
+      {
+        "fr": "Fraction Irréductible",
+        "ar": "كسر مختزل"
+      },
+      {
+        "fr": "Rationnelle",
+        "ar": "جدري"
+      },
+      {
+        "fr": "Réel",
+        "ar": "حقيقي"
+      },
+      {
+        "fr": "Ecriture",
+        "ar": "كتابة"
+      },
+      {
+        "fr": "Encadrement",
+        "ar": "تأطير"
+      },
+      {
+        "fr": "Conditions",
+        "ar": "شروط"
+      },
+      {
+        "fr": "Nombre décimale",
+        "ar": "عدد عشرى"
+      },
+      {
+        "fr": "Entier relatif",
+        "ar": "عدد نسبي"
+      },
+      {
+        "fr": "Règle",
+        "ar": "قاعدة"
+      },
+      {
+        "fr": "Définition",
+        "ar": "تعريف"
+      },
+      {
+        "fr": "Proposition",
+        "ar": "خاصبة"
+      },
+      {
+        "fr": "Propriétés",
+        "ar": "خاصيات"
+      },
+      {
+        "fr": "Introduction",
+        "ar": "تمهيد  أو  مقدمة"
+      },
+      {
+        "fr": "Théorème",
+        "ar": "مبرهنة"
+      },
+      {
+        "fr": "Conclusion",
+        "ar": "خلاصة"
+      },
+      {
+        "fr": "Approximation",
+        "ar": "تقريب"
+      },
+      {
+        "fr": "Angle orienté",
+        "ar": "زاوية موجهة"
+      },
+      {
+        "fr": "Arc",
+        "ar": "قوس"
+      },
+      {
+        "fr": "Axe",
+        "ar": "محور"
+      },
+      {
+        "fr": "Abscisse",
+        "ar": "أفصول منحنى"
+      },
+      {
+        "fr": "curviligne",
+        "ar": "منحني"
+      },
+      {
+        "fr": "Asymptote",
+        "ar": "مقارب"
+      },
+      {
+        "fr": "Axe de",
+        "ar": "محور تماثل"
+      },
+      {
+        "fr": "symétrie",
+        "ar": "ثماثل"
+      },
+      {
+        "fr": "Angle au centre",
+        "ar": "زاوية مركزية"
+      },
+      {
+        "fr": "Alignement",
+        "ar": "استقامة"
+      },
+      {
+        "fr": "Angle inscrit",
+        "ar": "زاوية محاطة"
+      },
+      {
+        "fr": "Antécédent",
+        "ar": "سابق"
+      },
+      {
+        "fr": "Base",
+        "ar": "اساس"
+      },
+      {
+        "fr": "Bornes",
+        "ar": "   أطرف أو محدات"
+      },
+      {
+        "fr": "Bissectrice",
+        "ar": "منصف"
+      },
+      {
+        "fr": "Coordonnées",
+        "ar": "احداثيات"
+      },
+      {
+        "fr": "Chiffre",
+        "ar": "رقم"
+      },
+      {
+        "fr": "Cercle",
+        "ar": "دائرة"
+      },
+      {
+        "fr": "Centre",
+        "ar": "مركز"
+      },
+      {
+        "fr": "Conjugué",
+        "ar": "مرافق"
+      },
+      {
+        "fr": "Compas",
+        "ar": "بركار"
+      },
+      {
+        "fr": "Colonne",
+        "ar": "عمود"
+      },
+      {
+        "fr": "Centre de gravitée",
+        "ar": "مركز ثقل"
+      },
+      {
+        "fr": "Courbe",
+        "ar": "منحنى"
+      },
+      {
+        "fr": "Caractère",
+        "ar": "ميزة"
+      },
+      {
+        "fr": "Constante",
+        "ar": "ثابة"
+      },
+      {
+        "fr": "Contient",
+        "ar": "يحتوي على"
+      },
+      {
+        "fr": "Cas particulier",
+        "ar": "حالة خاصة"
+      },
+      {
+        "fr": "Couple",
+        "ar": "تلاقي"
+      },
+      {
+        "fr": "Confondus",
+        "ar": "متطابق"
+      },
+      {
+        "fr": "Consécutifs",
+        "ar": "متتالبان"
+      },
+      {
+        "fr": "Conséquence ou résultats",
+        "ar": "نتيجة"
+      },
+      {
+        "fr": "Convention"
+      },
+      {
+        "fr": "contradiction",
+        "ar": "تناقض"
+      },
+      {
+        "fr": "Croissante",
+        "ar": "تزايدية"
+      },
+      {
+        "fr": "Centre de symétrie",
+        "ar": "مركز تماثل"
+      },
+      {
+        "fr": "Carré scalaire",
+        "ar": "جداء سلمي"
+      },
+      {
+        "fr": "Classe",
+        "ar": "صنف"
+      },
+      {
+        "fr": "Corde",
+        "ar": "وتر"
+      },
+      {
+        "fr": "Convertir",
+        "ar": "تحويل"
+      },
+      {
+        "fr": "Coté",
+        "ar": "ضلع"
+      },
+      {
+        "fr": "Directe",
+        "ar": "مباشر"
+      },
+      {
+        "fr": "Disque",
+        "ar": "قرص"
+      },
+      {
+        "fr": "Disjoints",
+        "ar": "منفصل"
+      },
+      {
+        "fr": "Discutions",
+        "ar": "مناقشة"
+      },
+      {
+        "fr": "Déterminants",
+        "ar": "محددة"
+      },
+      {
+        "fr": "Domaine de définition d'une Fonction",
+        "ar": "حيز تعريف دالة"
+      },
+      {
+        "fr": "Dessin",
+        "ar": "شكل"
+      },
+      {
+        "fr": "Deux a deux",
+        "ar": "مثنى مثنى"
+      },
+      {
+        "fr": "Diagramme en bâton",
+        "ar": "مخطط عصوي"
+      },
+      {
+        "fr": "Diagonale",
+        "ar": "قطر"
+      },
+      {
+        "fr": "Diamétralement opposé",
+        "ar": "متقابلة قطريا"
+      },
+      {
+        "fr": "discriminent",
+        "ar": "مميز"
+      },
+      {
+        "fr": "Décimale",
+        "ar": "عشري"
+      },
+      {
+        "fr": "Diagramme sectoriel",
+        "ar": "مخطط قطاعى"
+      },
+      {
+        "fr": "Décrire",
+        "ar": "صف"
+      },
+      {
+        "fr": "Diviseur commun",
+        "ar": "قاسم مشترك"
+      },
+      {
+        "fr": "Divise",
+        "ar": "يقسم"
+      },
+      {
+        "fr": "D'abord",
+        "ar": "أولا"
+      },
+      {
+        "fr": "Droite",
+        "ar": "مستقيم"
+      },
+      {
+        "fr": "Dénombrement",
+        "ar": "تعداد"
+      },
+      {
+        "fr": "Décroissante",
+        "ar": "تناقصية"
+      },
+      {
+        "fr": "Demi-droite",
+        "ar": "نصف مستقيم"
+      },
+      {
+        "fr": "Direction",
+        "ar": "اتجاه"
+      },
+      {
+        "fr": "Dimension",
+        "ar": "بعد"
+      },
+      {
+        "fr": "Décomposition",
+        "ar": "تفكيك"
+      },
+      {
+        "fr": "Divisible",
+        "ar": "قابل للقسمة"
+      },
+      {
+        "fr": "Distance",
+        "ar": "مسافة"
+      },
+      {
+        "fr": "Dispersion",
+        "ar": "تشتت"
+      },
+      {
+        "fr": "Défaut",
+        "ar": "تفريط"
+      },
+      {
+        "fr": "Ensemble vide",
+        "ar": "مجموعة فارغة"
+      },
+      {
+        "fr": "Evaluation",
+        "ar": "تقويم"
+      },
+      {
+        "fr": "Effectif cumule",
+        "ar": "الحصيص المتراكم"
+      },
+      {
+        "fr": "Ecart type",
+        "ar": "الانحراف الطرازي"
+      },
+      {
+        "fr": "En fonction de",
+        "ar": "بدلالة"
+      },
+      {
+        "fr": "Espace",
+        "ar": "فضاء"
+      },
+      {
+        "fr": "Echelle",
+        "ar": "سلم"
+      },
+      {
+        "fr": "Elément neutre",
+        "ar": "عنصر محايد"
+      },
+      {
+        "fr": "Extrémité",
+        "ar": "حد"
+      },
+      {
+        "fr": "Equation réduite",
+        "ar": "معادلة مختصرة"
+      },
+      {
+        "fr": "Equation du second degré",
+        "ar": "معادلة من الدرجة التانية"
+      },
+      {
+        "fr": "Excès",
+        "ar": "افراط"
+      },
+      {
+        "fr": "Factorisation",
+        "ar": "تعميل"
+      },
+      {
+        "fr": "Forme canonique",
+        "ar": "شكل قانونى"
+      },
+      {
+        "fr": "Formule",
+        "ar": "صيعة"
+      },
+      {
+        "fr": "Fonction affine",
+        "ar": "دالة تآلفية"
+      },
+      {
+        "fr": "Fonction linéaire",
+        "ar": "دالة خطة"
+      },
+      {
+        "fr": "Facteurs premier",
+        "ar": "عوامل أولية"
+      },
+      {
+        "fr": "Fréquence",
+        "ar": "تردد"
+      },
+      {
+        "fr": "Fonction Rationnelle",
+        "ar": "دالة جذرية"
+      },
+      {
+        "fr": "Général",
+        "ar": "عام"
+      },
+      {
+        "fr": "Graffe",
+        "ar": "مبيان"
+      },
+      {
+        "fr": "Graduation",
+        "ar": "تدريج"
+      },
+      {
+        "fr": "Histogramme",
+        "ar": "مدراج"
+      },
+      {
+        "fr": "Horizontal",
+        "ar": "افقي"
+      },
+      {
+        "fr": "Impair",
+        "ar": "فردي"
+      },
+      {
+        "fr": "isométrique",
+        "ar": "متقايسة"
+      },
+      {
+        "fr": "Interprétation Géométrique",
+        "ar": "تأويل هندسى"
+      },
+      {
+        "fr": "Intervalle ouvert",
+        "ar": "مجال مفتوح"
+      },
+      {
+        "fr": "Intervalle fermé",
+        "ar": "مجال مغلق"
+      },
+      {
+        "fr": "Invariant",
+        "ar": "صامد"
+      },
+      {
+        "fr": "Logique",
+        "ar": "المنطق"
+      },
+      {
+        "fr": "Linéaire",
+        "ar": "arية"
+      },
+      {
+        "fr": "Moyenne",
+        "ar": "معدل"
+      },
+      {
+        "fr": "Multiple",
+        "ar": "مضاعف"
+      },
+      {
+        "fr": "Médiatrice",
+        "ar": "واسط"
+      },
+      {
+        "fr": "Médiane",
+        "ar": "متوسط"
+      },
+      {
+        "fr": "Multiplication Ou produit",
+        "ar": " جداء أو ضرب"
+      },
+      {
+        "fr": "Monotone",
+        "ar": "رتابة"
+      },
+      {
+        "fr": "Moins l'infini",
+        "ar": "ناقص مالا نهاية"
+      },
+      {
+        "fr": "Négation",
+        "ar": "نفي"
+      },
+      {
+        "fr": "Norme",
+        "ar": "منظم"
+      },
+      {
+        "fr": "Orthocentre",
+        "ar": "مركز تعامد"
+      },
+      {
+        "fr": "Orthogonal",
+        "ar": " عمودي"
+      },
+      {
+        "fr": "Origine",
+        "ar": "أصل"
+      },
+      {
+        "fr": "Orientation",
+        "ar": "توجيه"
+      },
+      {
+        "fr": "Pair",
+        "ar": "زوجي"
+      },
+      {
+        "fr": "Point",
+        "ar": "نقطة"
+      },
+      {
+        "fr": "Point aligné",
+        "ar": "نقط مستقيمية"
+      },
+      {
+        "fr": "Point unique",
+        "ar": "نقطة وحيدة"
+      },
+      {
+        "fr": "Paralieiogramme",
+        "ar": "متوازي الأضلاع"
+      },
+      {
+        "fr": "Parabole",
+        "ar": "شلجم"
+      },
+      {
+        "fr": "Produit scalaire",
+        "ar": "جداء سلمى"
+      },
+      {
+        "fr": "Produit vectoriel",
+        "ar": "جداء متجهي"
+      },
+      {
+        "fr": "Proposition",
+        "ar": "عبارة"
+      },
+      {
+        "fr": "Pyramide régulier",
+        "ar": "هرم منتظم"
+      },
+      {
+        "fr": "Proportionnalité",
+        "ar": "تناسبية"
+      },
+      {
+        "fr": "Plus l'infini",
+        "ar": "زائد مالا نهاية"
+      },
+      {
+        "fr": "Perpendiculaire",
+        "ar": "عمودي"
+      },
+      {
+        "fr": "Point d'intersection",
+        "ar": "نقطة تقاطع"
+      },
+      {
+        "fr": "Plan",
+        "ar": "مستوى"
+      },
+      {
+        "fr": "Polynôme",
+        "ar": "حدودية"
+      },
+      {
+        "fr": "Population Statistique",
+        "ar": "ساكنة  احصائية"
+      },
+      {
+        "fr": "Projection",
+        "ar": "اسقاط"
+      },
+      {
+        "fr": "Parallèle",
+        "ar": "موازي"
+      },
+      {
+        "fr": "Périodique",
+        "ar": "دورية"
+      },
+      {
+        "fr": "Parité",
+        "ar": "زوجية"
+      },
+      {
+        "fr": "Précision",
+        "ar": "دقة"
+      },
+      {
+        "fr": "Position relative",
+        "ar": "وضع نسبي"
+      },
+      {
+        "fr": "Paramètres",
+        "ar": "وسيطات"
+      },
+      {
+        "fr": "Périmètre",
+        "ar": "محيط"
+      },
+      {
+        "fr": "Quottions",
+        "ar": "الخارج"
+      },
+      {
+        "fr": "Quotient",
+        "ar": "كسر"
+      },
+      {
+        "fr": "Quadrilatère",
+        "ar": "رباعي"
+      },
+      {
+        "fr": "Relation",
+        "ar": "علاقة"
+      },
+      {
+        "fr": "Réductible",
+        "ar": "مختزل"
+      },
+      {
+        "fr": "Repère",
+        "ar": "معلم"
+      },
+      {
+        "fr": "Repère orthogonale",
+        "ar": "معلم متعامد"
+      },
+      {
+        "fr": "Représentation paramétrique",
+        "ar": "تمثيل"
+      },
+      {
+        "fr": "Reste",
+        "ar": "الباقي"
+      },
+      {
+        "fr": "Rapports trigonométriques",
+        "ar": "النسب المثلثية"
+      },
+      {
+        "fr": "Réunion",
+        "ar": "اتحاد"
+      },
+      {
+        "fr": "Résoudre graphiquement",
+        "ar": "حل مبياني"
+      },
+      {
+        "fr": "Racine carré",
+        "ar": "جدر مربع"
+      },
+      {
+        "fr": "Rectangle",
+        "ar": "مستطيل"
+      },
+      {
+        "fr": "Relation de Charles",
+        "ar": "علاقة شارل"
+      },
+      {
+        "fr": "Support",
+        "ar": "حامل"
+      },
+      {
+        "fr": "Systeme",
+        "ar": "ذظمة"
+      },
+      {
+        "fr": "S'écrit sous forme",
+        "ar": "يكتب على شكل"
+      },
+      {
+        "fr": "Semi fermé",
+        "ar": "مجال نصف مغلق"
+      },
+      {
+        "fr": "Sens",
+        "ar": "منحى"
+      },
+      {
+        "fr": "Sommet",
+        "ar": "رأس"
+      },
+      {
+        "fr": "Substitution",
+        "ar": "تعويض"
+      },
+      {
+        "fr": "Série",
+        "ar": "سلسلة"
+      },
+      {
+        "fr": "Type",
+        "ar": "طراز"
+      },
+      {
+        "fr": "Triangle isocèle",
+        "ar": "مثلث متساوى الساقين"
+      },
+      {
+        "fr": "Triangle rectangle",
+        "ar": "مثلث قانم الزاوية"
+      },
+      {
+        "fr": "Tableau de signe",
+        "ar": "جدول الاشارة"
+      },
+      {
+        "fr": "Tableau de variations",
+        "ar": "جدول التغيرات"
+      },
+      {
+        "fr": "Trinôme",
+        "ar": "ثلاثية الحدود"
+      },
+      {
+        "fr": "Tangente",
+        "ar": "ظل"
+      },
+      {
+        "fr": "Trapèze",
+        "ar": "شبه منحرف"
+      },
+      {
+        "fr": "Transformation",
+        "ar": "تحويل"
+      },
+      {
+        "fr": "Translation",
+        "ar": "ازاحة"
+      },
+      {
+        "fr": "Termes",
+        "ar": "حدود"
+      },
+      {
+        "fr": "Trouver",
+        "ar": "أوجد"
+      },
+      {
+        "fr": "Usuelle",
+        "ar": "اعتيادية"
+      },
+      {
+        "fr": "Unité de mesure",
+        "ar": "وحدة احصائية"
+      },
+      {
+        "fr": "Variations",
+        "ar": "تغير"
+      },
+      {
+        "fr": "Valeur maximale",
+        "ar": "قيمة قصوية"
+      },
+      {
+        "fr": "Variance",
+        "ar": "مغايرة"
+      },
+      {
+        "fr": "Vecteur directeur",
+        "ar": "متجهة موجهة"
+      },
+      {
+        "fr": "Variable",
+        "ar": "متغير"
+      },
+      {
+        "fr": "Valeur absolue",
+        "ar": "قيمة مطلقة"
+      },
+      {
+        "fr": "Vecteurs colinéaires",
+        "ar": "متجهات مستقيمية"
+      },
+      {
+        "fr": "حجم",
+        "ar": "Volume"
+      },
+      {
+        "fr": "Alignés",
+        "ar": "مستقيمية"
+      },
+      {
+        "fr": "Abscisse",
+        "ar": "افصول"
+      },
+      {
+         "fr": "Axiale",
+        "ar": "محوري"
+      },
+      {
+        "fr": "Antécédent d'un nombre par une fonrtion",
+        "ar": "سابق عدد بدالة عددية"
+      },
+      {
+        "fr": "Abcisses",
+        "ar": "الأفاصيل"
+      },
+      {
+        "fr": "Appartient",
+        "ar": "ينتمي"
+      },
+      {
+        "fr": "Antécédent d'un nombre par une fonction",
+        "ar": "سابق عدد بدالة عددية"
+      },
+      {
+        "fr": "Axe",
+        "ar": "محور"
+      },
+      {
+        "fr": "Angle",
+        "ar": "زاوية"
+      },
+      {
+        "fr": "Angle orienté de deux demi-droites",
+        "ar": "زاولة موجهة لنصفى مستقيمين"
+      },
+      {
+        "fr": "Angle droit",
+        "ar": "زاوية قائمة"
+      },
+      {
+        "fr": "Base d'un plan",
+        "ar": "أساس مستوى"
+      },
+      {
+        "fr": "Bâtons",
+        "ar": "عصوى"
+      },
+      {
+        "fr": "Centrale",
+        "ar": "مركزي"
+      },
+      {
+        "fr": "Classe",
+        "ar": "صنف"
+      },
+      {
+        "fr": "Colinéarité",
+        "ar": "استقامة"
+      },
+      {
+        "fr": "Coordonnées",
+        "ar": "إحداثيات"
+      },
+      {
+        "fr": "Cosinus",
+        "ar": "جيب التمام"
+      },
+      {
+        "fr": "Croissante",
+        "ar": "تزايدية"
+      },
+      {
+        "fr": "Cartésienne",
+        "ar": "ديكارتية"
+      },
+      {
+        "fr": "Carré scalaire",
+        "ar": "مربع سلمى"
+      },
+      {
+        "fr": "Critères de divisibilité",
+        "ar": "مصاديق قابلية القسمة"
+      },
+      {
+        "fr": "Centre d'un intervalle",
+        "ar": "مركز مجال"
+      },
+      {
+        "fr": "Décomposition en produit de facteurs premiers",
+        "ar": "تفكيك إلى جداء عوامل أولية"
+      },
+      {
+        "fr": "Degré d'un polynôme",
+        "ar": "درجة حدودية"
+      },
+      {
+        "fr": "Décroissante",
+        "ar": "تناقصية"
+      },
+      {
+        "fr": "Droite",
+        "ar": "مستقيم"
+      },
+      {
+        "fr": "Diagramme",
+        "ar": "مخطط"
+      },
+      {
+        "fr": "De premier degré",
+        "ar": "من الدرجة الآولى"
+      },
+      {
+        "fr": "De second degré",
+        "ar": "من الدرجة الثانية"
+      },
+      {
+        "fr": "Déterminant de deux vecteurs",
+        "ar": "محددة متجهتين"
+      },
+      {
+        "fr": "Discrimiirant d'une équation",
+        "ar": "مميز معادلة"
+      },
+      {
+        "fr": "Effectif",
+        "ar": "حصيص"
+      },
+      {
+        "fr": "Effectif cumul",
+        "ar": "حصص متراكم"
+      },
+      {
+        "fr": " Encadrement",
+        "ar": "تأطير"
+      },
+      {
+        "fr": "Egal",
+        "ar": "يساوي"
+      },
+      {
+        "fr": "Equation",
+        "ar": "معادلة"
+      },
+      {
+        "fr": "Ensemble de définition",
+        "ar": "مجموعة تعريف"
+      },
+      {
+        "fr": "Ecart moyen",
+        "ar": "الانحراف المتوسط"
+      },
+      {
+        "fr": "Ecat-type",
+        "ar": "الانحراف الطرازى"
+      },
+      {
+        "fr": "Fonction numérique",
+        "ar": "دالة عددية"
+      },
+      {
+        "fr": "Fermé",
+        "ar": "مغلق"
+      },
+      {
+        "fr": "Homothetie",
+        "ar": "تحاكى"
+      },
+      {
+        "fr": "Histogramme",
+        "ar": "مدراج"
+      },
+      {
+        "fr": "Hyperbole",
+        "ar": "هذلول"
+      },
+      {
+        "fr": "Image",
+        "ar": "صورة"
+      },
+      {
+        "fr": "Impaire",
+        "ar": "فردية"
+      },
+      {
+        "fr": "Point invariant",
+        "ar": "نقطة صامدة"
+      },
+      {
+        "fr": "Intersection de deux plans",
+        "ar": "تقاطع مستويين"
+      },
+      {
+        "fr": "Identités remarquables",
+        "ar": "متطابقات هامة"
+      },
+      {
+        "fr": "Intervalle",
+        "ar": "مجال"
+      },
+      {
+        "fr": "Image d'un nombre par une fonction",
+        "ar": "صورة عدد بدالة"
+      },
+      {
+        "fr": "La somme et le produit",
+        "ar": "الجمع والضرب"
+      },
+      {
+        "fr": "Ligne trigonométriques",
+        "ar": "نسب مثلثية"
+      },
+      {
+        "fr": "Mesure principale",
+        "ar": "القياس الرئسي"
+      },
+      {
+        "fr": "Milieu d'un segment",
+        "ar": "منتصف قطعة"
+      },
+      {
+        "fr": "Monôme",
+        "ar": "حدانية"
+      },
+      {
+        "fr": "Monotonie d'une fonction",
+        "ar": "رتابة دالة"
+      },
+      {
+        "fr": "Multiple",
+        "ar": "مضاعف"
+      },
+      {
+        "fr": "Moyenne",
+        "ar": "المعدل الحسابى"
+      },
+      {
+        "fr": "Nulle",
+        "ar": "منعدمة"
+      },
+      {
+        "fr": "Ordonné d'un point",
+        "ar": "ارتوب نقطة"
+      },
+      {
+        "fr": "Ordre",
+        "ar": " الترتيب"
+      },
+      {
+        "fr": "Orthogonal",
+        "ar": "عمودي"
+      },
+      {
+        "fr": "Orthogonalité d'une droite et d'un plan",
+        "ar": "تعامد مستقيم ومستوى"
+      },
+      {
+        "fr": "Orthogonalité de deux plans",
+        "ar": "تعامد مستويين"
+      },
+      {
+        "fr": "Ordonnées",
+        "ar": "الأراتيب"
+      },
+      {
+        "fr": "Paire",
+        "ar": "زوجية"
+      },
+      {
+        "fr": "Parabole",
+        "ar": "شلجم"
+      },
+      {
+        "fr": "Parallèlement à une droite",
+        "ar": "بتواز مع مستقيم"
+      },
+      {
+        "fr": "Projeté d'un point",
+        "ar": "مسقط نقطة"
+      },
+      {
+        "fr": "Projeté orthogonal",
+        "ar": "مسقط عمودى"
+      },
+      {
+        "fr": "Paramétrique d'une droite",
+        "ar": "بارامتري لمستقيم"
+      },
+      {
+        "fr": "Perpondicularité (orthogonalité)",
+        "ar": "تعامد"
+      },
+      {
+        "fr": "Plus petit (inférieur)",
+        "ar": "أصغر"
+      },
+      {
+        "fr": "Point",
+        "ar": "نقطة"
+      },
+      {
+        "fr": "Plan",
+        "ar": "مستوى"
+      },
+      {
+        "fr": "Polynôme",
+        "ar": "حدودية"
+      },
+      {
+        "fr": "Parallélisme dune droite et d'un plan",
+        "ar": "توازي مستقيم ومستوى"
+      },
+      {
+        "fr": "Population statistique",
+        "ar": "ساكنة إحصائية"
+      },
+      {
+        "fr": "Positive - négative.",
+        "ar": "موجبة - سالبة"
+      },
+      {
+        "fr": "Produit scalaire",
+        "ar": "جداء سلمى"
+      },
+      {
+        "fr": "Programmation linéaire",
+        "ar": "برمجة خطية"
+      },
+      {
+        "fr": "Projection",
+        "ar": "إسقاط"
+      },
+      {
+        "fr": "Quatrilatère inscriptible",
+        "ar": "رباعى دائري"
+      },
+      {
+        "fr": "Racine d'un polyOme",
+        "ar": "جذر حدودية"
+      },
+      {
+        "fr": "Radian (angle)",
+        "ar": "راديان (زاوية)"
+      },
+      {
+        "fr": "Raisonnement par l'absurde",
+        "ar": "برهان بالخلف"
+      },
+      {
+        "fr": "Régionnement du plan",
+        "ar": "توجيه  المستوى"
+      },
+      {
+        "fr": "Représentation graphique d'une fonction",
+        "ar": "تمثيل مبياني لدالة"
+      },
+      {
+        "fr": "Repère d'un plan",
+        "ar": "معلم مستوى"
+      },
+      {
+        "fr": "Repère cartésien",
+        "ar": "معلم ديكارتي"
+      },
+      {
+        "fr": "Reste de la division euclidienne",
+        "ar": "باقي القسمة الإقليدية"
+      },
+      {
+        "fr": "Sens",
+        "ar": "منحى"
+      },
+      {
+        "fr": "Signe",
+        "ar": "إشارة"
+      },
+      {
+        "fr": "Sin",
+        "ar": "جيب"
+      },
+      {
+        "fr": "Statistique",
+        "ar": "إحصاء"
+      },
+      {
+        "fr": "Strictement",
+        "ar": "قطعا"
+      },
+      {
+        "fr": "Sur un axe",
+        "ar": "على محور"
+      },
+      {
+        "fr": "Symétrie",
+        "ar": "تماثل"
+      },
+      {
+        "fr": "Série statistique",
+        "ar": "متسلسلة إحصائية"
+      },
+      {
+        "fr": "Symétrie",
+        "ar": "تماثل"
+      },
+      {
+        "fr": "Sectoriel",
+        "ar": "اقطاعي"
+      },
+      {
+        "fr": "Système de deux équations de premier degré à deux inconnues",
+        "ar": "نظمة معادلتين من الدرجة الأولى بمجهولين"
+      },
+      {
+        "fr": "Sommet d'une parabole",
+        "ar": "رأس الشلجم"
+      },
+      {
+        "fr": "Tableau de variation d'une fonction",
+        "ar": "جدول تغيرات دالة"
+      },
+      {
+        "fr": "Terme",
+        "ar": "حد"
+      },
+      {
+        "fr": "Transformation usuelles dans le plan",
+        "ar": "تحويلات اعتيادية فى المستوى"
+      },
+      {
+        "fr": "Translation",
+        "ar": "إزاحة"
+      },
+      {
+        "fr": "Trinôme",
+        "ar": "ثلاثية حدود"
+      },
+      {
+        "fr": "Trois points",
+        "ar": "ثلاث نقط."
+      },
+      {
+        "fr": "Une droite et un plan",
+        "ar": "مستقيم ومستوى"
+      },
+      {
+        "fr": "Vecteur",
+        "ar": "متجهة"
+      },
+      {
+        "fr": "Vecteur de translation",
+        "ar": "متجهة إزاحة"
+      },
+      {
+        "fr": "Volume des solides",
+        "ar": "حجوم المجسمات"
+      },
+      {
+        "fr": "Vecteur directeur",
+        "ar": "متحهة موجهة"
+      },
+      {
+        "fr": "Variance",
+        "ar": "مغايرة"
+      },
+      {
+        "fr": "Angle d'une rotation",
+        "ar": "زاوية دوران"
+      },
+      {
+        "fr": "Approximation d'une fonction numérique",
+        "ar": "تقريب دالة عددية"
+      },
+      {
+        "fr": "Asymptote oblique",
+        "ar": "مقارب مائل"
+      },
+      {
+        "fr": "Asymptote parallèle à l'axe des abscisses",
+        "ar": "مقارب موازى لمحور الأفاصل "
+      },
+      {
+        "fr": "Asymptote parallèle à l'axe des ordonnés",
+        "ar": "مقارب موازي لمحور الأراتب "
+      },
+      {
+        "fr": "Axe de symétrie d'une 1 courbe",
+        "ar": "محور تماثل منحنى"
+      },
+      {
+        "fr": "Barycentre",
+        "ar": "مرجح"
+      },
+      {
+        "fr": "Base",
+        "ar": "اساس"
+      },
+      {
+        "fr": "Branche infinie",
+        "ar": "فرع لا نهائي"
+      },
+      {
+        "fr": "Branche parabolique",
+        "ar": "فرع شلجمي"
+      },
+      {
+        "fr": "Centre de symétrie d'une courbe د '——",
+        "ar": "مركز تماثل منحنى"
+      },
+      {
+        "fr": "Centre d'une rotation",
+        "ar": "مركز دوران"
+      },
+      {
+        "fr": "Colinéarité de deux vecteurs",
+        "ar": "استقامية متجهتين"
+      },
+      {
+        "fr": " Composée de deux fonctions",
+        "ar": "مركب دالتين"
+      },
+      {
+        "fr": "Concavité d'une courbe",
+        "ar": "تقعر منحنى"
+      },
+      {
+        "fr": "Conjonction de deux propositions",
+        "ar": "عطف عبارتين"
+      },
+      {
+        "fr": "cote",
+        "ar": "انسوب"
+      },
+      {
+        "fr": "Dérivabilité d'une fonction en un point",
+        "ar": "قابلية اشتقاق دالة فى نقطة"
+      },
+      {
+        "fr": "Dérivation à droite",
+        "ar": "الاشتقاق عاى اليمين"
+      },
+      {
+        "fr": "؛ Dériveés successives",
+        "ar": "المشتقات المتتالية"
+      },
+      {
+        "fr": "Déterminant de trois vecteurs",
+        "ar": "محددة ثلأث متجهات"
+      },
+      {
+        "fr": "1 Deux vecteurs directeurs d'un plan",
+        "ar": "مستوى موجه بمتجهتين "
+      },
+      {
+        "fr": "Disjonction de deux propositions",
+        "ar": "فصل عبارتين"
+      },
+      {
+        "fr": "Distance d'un point à une droite",
+        "ar": "مسافة نقطة عن مستقيم"
+      },
+      {
+        "fr": "Distance entre deux points",
+        "ar": "مسافة بين نقطتين"
+      },
+      {
+        "fr": "Equation cartésienne d'un plan",
+        "ar": "معادلة ديكارتية لمستوى"
+      },
+      {
+        "fr": "Equation différentielle",
+        "ar": "معادلة تفاضلية"
+      },
+      {
+        "fr": "Equation d'un cercle",
+        "ar": "معادلة دائرة"
+      },
+      {
+        "fr": "Equation d'une demi-tangente",
+        "ar": "معادلة نصف مماس "
+      },
+      {
+        "fr": "Equation d'une droite",
+        "ar": "معادلة مستقيم"
+      },
+      {
+        "fr": "Equation d'une tangente à un cercle",
+        "ar": "معادلة مماس لدائرة"
+      },
+      {
+        "fr": "Equation d'une tangente à une courbe",
+        "ar": "معادلة مماس لمنحنى"
+      },
+      {
+        "fr": " Equations cartésiennes d'une droite",
+        "ar": "معادلتان ديكا رتيتان لمستقيم"
+      },
+      {
+        "fr": "Equivalence de deux propositions",
+        "ar": "تكافؤ عبارتين"
+      },
+      {
+        "fr": "Extérieur d'un cercle",
+        "ar": "خارج دائرة"
+      },
+      {
+        "fr": "Extremums d'une fonction",
+        "ar": "مطاريف دالة"
+      },
+      {
+        "fr": "Fonction bornée",
+        "ar": "دالة المحدودة"
+      },
+      {
+        "fr": "Fonction majorée",
+        "ar": "دالة المكبورة"
+      },
+      {
+        "fr": "Fonction minorée",
+        "ar": "دالة المصغورة"
+      },
+      {
+        "fr": "Fonction périodique",
+        "ar": "دالة دورية"
+      },
+      {
+        "fr": "Fonction propositionnelle",
+        "ar": "دالة عبارية"
+      },
+      {
+        "fr": "Formule de cos",
+        "ar": "$cos(\theta)$ صيغة"
+      },
+      {
+        "fr": "Formule de sin",
+        "ar": "$sin(\theta)$ صيغة"
+      },
+      {
+        "fr": "Implication",
+        "ar": "استلزام عبارتين"
+      },
+      {
+        "fr": "La fonction dérivée",
+        "ar": "الدالة المشتقة"
+      },
+      {
+        "fr": "La fonction dérivée seconde",
+        "ar": "الدالة المشتقة الثانية"
+      },
+      {
+        "fr": "La rotation",
+        "ar": "الدوارن"
+      },
+      {
+        "fr": "La rotation réciproque",
+        "ar": "الدوران العكسي"
+      },
+      {
+        "fr": "Le premier terme",
+        "ar": "الحد. الأول"
+      },
+      {
+        "fr": "Le terme général",
+        "ar": "الحد العام"
+      },
+      {
+        "fr": "L'expression analytique du produit scalaire",
+        "ar": "الصيغة التحليلية للجداء السلمى"
+      },
+      {
+        "fr": "Limite à droite",
+        "ar": "نهابة على اليمين"
+      },
+      {
+        "fr": "Limite à gauche",
+        "ar": "نهابة على العسار"
+      },
+      {
+        "fr": "Limite d'une fonction",
+        "ar": "نهاية دالة"
+      },
+      {
+        "fr": "Limite infinie",
+        "ar": "نهابة لا منتهية"
+      },
+      {
+        "fr": "Monotonie de la composée de deux fonctions",
+        "ar": "رتابة مركب دالتين"
+      },
+      {
+        "fr": "Multiplication d'un vecteur par un nombre réel.",
+        "ar": "ضرب متجهة في عدد حقيقي"
+      },
+      {
+        "fr": "Négation d'une proposition",
+        "ar": "نفي عبارة"
+      },
+      {
+        "fr": "Nombre dérivé",
+        "ar": "العدد المشتق"
+      },
+      {
+        "fr": "Norme d'un vecteur",
+        "ar": " منظم متجهة"
+      },
+      {
+        "fr": "opérations sur les fonctions dérivées",
+        "ar": "العمليات على الدوال المشتقة"
+      },
+      {
+        "fr": "Opposé d'un vecteur",
+        "ar": "مقابل متحهة"
+      },
+      {
+        "fr": "Ordonnée",
+        "ar": "أرتوب"
+      },
+      {
+        "fr": "Point d'inflexion d'une courbe",
+        "ar": "نقطة انعطاف منحنى"
+      },
+      {
+        "fr": "Points coplanaires",
+        "ar": "نقط مستوائية"
+      },
+      {
+        "fr": "Points non coplanaires",
+        "ar": "نقط غير مستوائية"
+      },
+      {
+        "fr": "Positions relatives",
+        "ar": "الأوضاع النسبية"
+      },
+      {
+        "fr": "proposition",
+        "ar": "عبارة"
+      },
+      {
+        "fr": "Quadriplet",
+        "ar": "مربوع"
+      },
+      {
+        "fr": "Quantificateur existentiel",
+        "ar": "المكمم الوجودي"
+      },
+      {
+        "fr": "Quantificateur universel",
+        "ar": "المكمم الكوني"
+      },
+      {
+        "fr": "Raison d'une suite",
+        "ar": "أساس متتالة"
+      },
+      {
+        "fr": "Raisonnemeirt par contraposée ",
+        "ar": "الاستدلال بالاستلزام المضاد للعكس"
+      },
+      {
+        "fr": "Raisonnement par disjonction des cas",
+        "ar": "الاستدلال بفصل الجالات"
+      },
+      {
+        "fr": "Raisonnement par équivalence",
+        "ar": "الاستدلال بالتكافؤ"
+      },
+      {
+        "fr": "Raisonnement par l'absurde",
+        "ar": "الاستدلال بالخلف '"
+      },
+      {
+        "fr": "Raisonnement par récurrence",
+        "ar": "الاستدلال بالترجع"
+      },
+      {
+        "fr": "Représentation paramétrique",
+        "ar": "تمثيل بارامتري"
+      },
+      {
+        "fr": "Sens d'un vecteur",
+        "ar": "منحى متجهة"
+      },
+      {
+        "fr": "Suite arithmétique",
+        "ar": "متتالية حسابية"
+      },
+      {
+        "fr": "Suite géométrique",
+        "ar": "متتالية هندسية"
+      },
+      {
+        "fr": "Suite numérique",
+        "ar": "متتالية عددية"
+      },
+      {
+        "fr": "Suite récurrente",
+        "ar": "متتالية ترجيعية"
+      },
+      {
+        "fr": "Terme d'une suite",
+        "ar": "حد متتالية"
+      },
+      {
+        "fr": "Transformation de cos(a-b)",
+        "ar": "cos (a-b) تحويل"
+      },
+      {
+        "fr": " Transformation de produits en sommes",
+        "ar": "تحويل جداءات إلى مجاميع"
+      },
+      {
+        "fr": " Transformation de sommes en produits",
+        "ar": "تحويل مجاميع إلى جداءات"
+      },
+      {
+        "fr": "Triplet",
+        "ar": "مثلوث"
+      },
+      {
+        "fr": "Vecteur normal à une droite",
+        "ar": "متحهة  منظمية على مستقيم"
+      },
+      {
+        "fr": "Vecteurs coplanaires",
+        "ar": "متجهات مستوائية "
+      }
+]
+
